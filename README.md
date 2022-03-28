@@ -1,6 +1,6 @@
 # data commons
 
-Consists of the repositories listed in (commons.json)[commons.json].
+Consists of the repositories listed in [commons.json](commons.json).
 
 You can clone this repository and run these commands to establish and work from local data:
 ```R
