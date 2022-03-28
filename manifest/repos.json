@@ -25,21 +25,21 @@
     "files": {
       "dcmdva_hdcttrbg_2017_2019_broadband_withoutint_compdev.csv.xz": {
         "location": "data",
-        "date": "2022-03-28T02:58:14Z",
+        "date": "2022-03-28T05:34:51Z",
         "size": 1668380,
         "sha": "71612dc75928602a7d0e4550884e8cfe524217c7",
         "md5": "8b2a6ab14f6c20b9277ee847d2f10a1f"
       },
       "ncr_cttrbg_2017_2019_broadband_withoutint_compdev.csv.xz": {
         "location": "data",
-        "date": "2022-03-28T02:58:14Z",
+        "date": "2022-03-28T05:34:51Z",
         "size": 539972,
         "sha": "a7e3b5cc6b8285df186b75dd8e9d9e1172d04b96",
         "md5": "1954de85806bfc8a965c0afd7c4b64c1"
       },
       "va_hdcttr_2017_2019_broadband_withoutint_compdev.csv.xz": {
         "location": "data",
-        "date": "2022-03-28T02:58:14Z",
+        "date": "2022-03-28T05:34:51Z",
         "size": 288344,
         "sha": "658f0364453a39c8dc8769486ec6c87ca1db60d9",
         "md5": "fe5a034ba486676a25c50b90ee7c65c1"
@@ -1598,21 +1598,21 @@
     "files": {
       "dmv_cttrbg_webmd_2021_acccess_scores_pediatrics.csv.xz": {
         "location": "data",
-        "date": "2022-03-28T02:57:34Z",
+        "date": "2022-03-28T05:34:36Z",
         "size": 169644,
         "sha": "876972e95c994f98f07e4a32a1372ce3448c2b63",
         "md5": "f31743da24155a2203ca0cace492a455"
       },
       "dmv_cttrbg_webmd_2021_access_scores_pediatrics.csv.xz": {
         "location": "data",
-        "date": "2022-03-28T02:57:34Z",
+        "date": "2022-03-28T05:34:36Z",
         "size": 169644,
         "sha": "876972e95c994f98f07e4a32a1372ce3448c2b63",
         "md5": "f31743da24155a2203ca0cace492a455"
       },
       "va_hdcttrbg_webmd_2021_access_scores_pediatric.csv.xz": {
         "location": "data",
-        "date": "2022-03-28T02:57:34Z",
+        "date": "2022-03-28T05:34:36Z",
         "size": 425728,
         "sha": "f0d8685623f852e8ec7a3fe1503658b564830d3e",
         "md5": "39ce3b7644741a96bc1393dc23cbb291"
@@ -1777,14 +1777,14 @@
     "files": {
       "ncr_cttr_acs_2009_2019_hh_receiving_snap.csv.xz": {
         "location": "data",
-        "date": "2022-03-28T02:59:08Z",
+        "date": "2022-03-28T05:35:14Z",
         "size": 174696,
         "sha": "b6bcf95b75937d5427d9e26e2966f7c4fea59186",
         "md5": "016bb57dcfefb75d767d25b59773620c"
       },
       "va_hdcttr_acs_2009_2019_hh_receiving_snap.csv.xz": {
         "location": "data",
-        "date": "2022-03-28T02:59:08Z",
+        "date": "2022-03-28T05:35:14Z",
         "size": 307260,
         "sha": "fca3836843f2ad8d5751fca19170294a81c606b3",
         "md5": "1d7f1ca51c124940d6d792d462c9782b"
