@@ -1,14 +1,14 @@
 'use strict'
 onmessage = function(m){
-  const v = JSON.parse(m.data),
-    f = new XMLHttpRequest()
+  const f = new XMLHttpRequest()
   f.onreadystatechange = function () {
     if (4 === f.readyState) {
-      v.response = f.responseText
-      postMessage(JSON.stringify(v))
+      m.data.status = f.status
+      m.data.response = f.responseText
+      postMessage(m.data)
     }
   }
-  f.open('GET', v.url, true)
+  f.open('GET', m.data.url, true)
   f.send()
 }
 
