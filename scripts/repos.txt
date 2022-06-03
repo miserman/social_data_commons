@@ -19,14 +19,12 @@ uva-bi-sdad/dc.ookla.broadband
 uva-bi-sdad/dc.broadbandnow.broadband.prices
 uva-bi-sdad/dc.fcc.num.packages
 uva-bi-sdad/dc.dss.daycare
-uva-bi-sdad/dc.nces.colleges
 uva-bi-sdad/dc.meps.acs.health.literacy
 uva-bi-sdad/dc.acs.education
+uva-bi-sdad/dc.education
 uva-bi-sdad/dc.acs.employment
 uva-bi-sdad/dc.vdoe.reading.scores
-uva-bi-sdad/dc.osrm.school.drve
 uva-bi-sdad/dc.vdoe.vpi
-uva-bi-sdad/dc.nces.programs
 uva-bi-sdad/dc.bea.employment
 uva-bi-sdad/dc.ArlingtonCounty.parks
 uva-bi-sdad/dc.ArlingtonCounty.amenities

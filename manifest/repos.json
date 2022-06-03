@@ -90,6 +90,27 @@
         "size": 8879076,
         "sha": "f724dba94e07262291bbed8ebc59b9dbca5eeed5",
         "md5": "83734acabf1cf4cbd9c7febef81cfef3"
+      },
+      "dcmdva_hdcttrbg_acs_2009_2019_demographics.csv.xz": {
+        "location": "data",
+        "date": "2022-06-01T16:06:13Z",
+        "size": 40006688,
+        "sha": "3e9a8e43a070b82ee39dbe7af87798d1b336e77e",
+        "md5": "b17c37ec6f4a5fe3d1846733869e36d5"
+      },
+      "ncr_cttrbg_acs_2009_2019_demographics.csv.xz": {
+        "location": "data",
+        "date": "2022-06-01T16:06:13Z",
+        "size": 13722628,
+        "sha": "783aad48c9cb36e1a68c39d6fe648147e7f82579",
+        "md5": "3dfef8afd7aec50ed062802281fbf8e2"
+      },
+      "va_hdcttr_acs_2009_2019_demographics.csv.xz": {
+        "location": "data",
+        "date": "2022-06-01T16:06:13Z",
+        "size": 8879076,
+        "sha": "f724dba94e07262291bbed8ebc59b9dbca5eeed5",
+        "md5": "83734acabf1cf4cbd9c7febef81cfef3"
       }
     }
   },
@@ -827,175 +848,6 @@
       }
     }
   },
-  "uva-bi-sdad/dc.nces.colleges": {
-    "distributions": {
-      "dataverse": {
-        "doi": "10.18130/V3/IWQFZC",
-        "server": "https://dataverse.lib.virginia.edu/",
-        "id": 55965,
-        "files": {
-          "va_cttrbghd_sdad_2019_2year_colleges_access_scores.csv.xz": {
-            "id": 57069,
-            "date": "2022-03-23T00:00:00Z",
-            "size": 270368,
-            "md5": "d101e444c9712926b26b99080a54ad58"
-          },
-          "va_cttrbghd_sdad_2019_4year_colleges_access_scores.csv.xz": {
-            "id": 57071,
-            "date": "2022-03-23T00:00:00Z",
-            "size": 293648,
-            "md5": "0ec3c6656bef31bed84362567e6bb5bc"
-          },
-          "va_cttrbghd_sdad_2019_trade_schools_access_scores.csv.xz": {
-            "id": 57072,
-            "date": "2022-03-23T00:00:00Z",
-            "size": 257724,
-            "md5": "34fccb4716882d7f589c17fe231b0db8"
-          },
-          "va_cttrhd_sdad_2019_2year_colleges_access_scores.csv.xz": {
-            "id": 55966,
-            "date": "2022-02-25T00:00:00Z",
-            "size": 86120,
-            "md5": "eac92afdd12f9b468af9eb0f933c335a"
-          },
-          "va_cttrhd_sdad_2019_4year_colleges_access_scores.csv.xz": {
-            "id": 57070,
-            "date": "2022-03-23T00:00:00Z",
-            "size": 293648,
-            "md5": "0ec3c6656bef31bed84362567e6bb5bc"
-          },
-          "va_cttrhd_sdad_2019_trade_schools_access_scores.csv.xz": {
-            "id": 55968,
-            "date": "2022-02-25T00:00:00Z",
-            "size": 79728,
-            "md5": "72f23dbc23e77070ee71d62f74c94d8d"
-          }
-        }
-      }
-    },
-    "url": "https://github.com/uva-bi-sdad/dc.nces.colleges",
-    "files": {
-      "va_cttrbghd_sdad_2019_2year_colleges_access_scores.csv.xz": {
-        "location": "data",
-        "date": "2022-04-12T02:11:09Z",
-        "size": 270368,
-        "sha": "0951c373b103568bed392dd408d713ad691ce6c8",
-        "md5": "d101e444c9712926b26b99080a54ad58"
-      },
-      "va_cttrbghd_sdad_2019_4year_colleges_access_scores.csv.xz": {
-        "location": "data",
-        "date": "2022-04-12T02:11:09Z",
-        "size": 293648,
-        "sha": "82b7208ffe9374685f32d1badebcab1d2a588ffc",
-        "md5": "0ec3c6656bef31bed84362567e6bb5bc"
-      },
-      "va_cttrbghd_sdad_2019_trade_schools_access_scores.csv.xz": {
-        "location": "data",
-        "date": "2022-04-12T02:11:09Z",
-        "size": 257724,
-        "sha": "c56323fc2b88ecadc3956d49dc7e8644ece08dbd",
-        "md5": "34fccb4716882d7f589c17fe231b0db8"
-      }
-    }
-  },
-  "uva-bi-sdad/dc.nces.programs": {
-    "distributions": {
-      "dataverse": {
-        "doi": "10.18130/V3/BEEKYP",
-        "server": "https://dataverse.lib.virginia.edu/",
-        "id": 55938,
-        "files": {
-          "va_ct_nces_2020_community_college_computer_sciences_fca.csv.xz": {
-            "id": 55939,
-            "date": "2022-02-23T00:00:00Z",
-            "size": 5332,
-            "md5": "f2c4f691ffb12e5811c4a0b31a4d9e71"
-          },
-          "va_cttrbg_nces_2020_community_college_computer_sciences_fca.csv.xz": {
-            "id": 57068,
-            "date": "2022-03-22T00:00:00Z",
-            "size": 237232,
-            "md5": "3c91475ab7b4da5922a2e4e56a5229fc"
-          },
-          "va_cttrbg_nces_2020_community_college_engineering_fca.csv.xz": {
-            "id": 57067,
-            "date": "2022-03-22T00:00:00Z",
-            "size": 220884,
-            "md5": "24ca00d0f87dc7847a1919b601885272"
-          },
-          "va_cttrbg_nces_2020_community_college_engineering_related_fca.csv.xz": {
-            "id": 57066,
-            "date": "2022-03-22T00:00:00Z",
-            "size": 220884,
-            "md5": "24ca00d0f87dc7847a1919b601885272"
-          },
-          "va_cttr_nces_2020_community_college_computer_sciences_fca.csv.xz": {
-            "id": 55943,
-            "date": "2022-02-24T00:00:00Z",
-            "size": 49420,
-            "md5": "8900da07b129d128ec0427fc18edde84"
-          },
-          "va_cttr_nces_2020_community_college_engineering_fca.csv.xz": {
-            "id": 55944,
-            "date": "2022-02-24T00:00:00Z",
-            "size": 46680,
-            "md5": "5a5c160aa7fa0293197311836683ac71"
-          },
-          "va_cttr_nces_2020_community_college_engineering_related_fca.csv.xz": {
-            "id": 55945,
-            "date": "2022-02-24T00:00:00Z",
-            "size": 47608,
-            "md5": "f71af023c99ab86d7d65d46f9312c164"
-          }
-        }
-      }
-    },
-    "url": "https://github.com/uva-bi-sdad/dc.nces.programs",
-    "files": {
-      "va_cttr_nces_2020_community_college_computer_sciences_fca.csv.xz": {
-        "location": "data",
-        "date": "2022-04-12T02:11:13Z",
-        "size": 49420,
-        "sha": "1ada46333ad0f68a2fdcaf91de6416aa4a5fc13a",
-        "md5": "8900da07b129d128ec0427fc18edde84"
-      },
-      "va_cttr_nces_2020_community_college_engineering_fca.csv.xz": {
-        "location": "data",
-        "date": "2022-04-12T02:11:13Z",
-        "size": 46680,
-        "sha": "250dac0c5d41e9fc5aedd2d9acd5f48029f869e1",
-        "md5": "5a5c160aa7fa0293197311836683ac71"
-      },
-      "va_cttr_nces_2020_community_college_engineering_related_fca.csv.xz": {
-        "location": "data",
-        "date": "2022-04-12T02:11:13Z",
-        "size": 47608,
-        "sha": "5cf393186a0986e2a7821aebfb90b6394bb1dfef",
-        "md5": "f71af023c99ab86d7d65d46f9312c164"
-      },
-      "va_cttrbg_nces_2020_community_college_computer_sciences_fca.csv.xz": {
-        "location": "data",
-        "date": "2022-04-12T02:11:13Z",
-        "size": 237232,
-        "sha": "e075b621d57e1ce41f67350f49febb7d1f0f6ca3",
-        "md5": "3c91475ab7b4da5922a2e4e56a5229fc"
-      },
-      "va_cttrbg_nces_2020_community_college_engineering_fca.csv.xz": {
-        "location": "data",
-        "date": "2022-04-12T02:11:13Z",
-        "size": 220884,
-        "sha": "4b44524ee88a6dc802237407668dea24e16fced3",
-        "md5": "24ca00d0f87dc7847a1919b601885272"
-      },
-      "va_cttrbg_nces_2020_community_college_engineering_related_fca.csv.xz": {
-        "location": "data",
-        "date": "2022-04-12T02:11:13Z",
-        "size": 220884,
-        "sha": "4b44524ee88a6dc802237407668dea24e16fced3",
-        "md5": "24ca00d0f87dc7847a1919b601885272"
-      }
-    }
-  },
   "uva-bi-sdad/dc.ookla.broadband": {
     "distributions": {
       "dataverse": {
@@ -1125,6 +977,34 @@
         "size": 522796,
         "sha": "7523154090742ed135ba2a32c919a024d7982b34",
         "md5": "411a913394e6080bde7d50875ee238ec"
+      },
+      "va059_hsr_sdad_2019_speed_measurements.csv.xz": {
+        "location": "data",
+        "date": "2022-05-25T14:21:59Z",
+        "size": 572,
+        "sha": "53ddf78f2ffe2aa5f6045ca2913d113aee887031",
+        "md5": "5a499898c9148b823da7b325d4f69065"
+      },
+      "va059_pd_sdad_2019_speed_measurements.csv.xz": {
+        "location": "data",
+        "date": "2022-05-25T14:21:59Z",
+        "size": 1604,
+        "sha": "e7b2e77546b3cdde1865fb03d2d6b2c6474f6c4b",
+        "md5": "142ca3c21457f6e32c404bf786586643"
+      },
+      "va059_spd_sdad_2019_speed_measurements.csv.xz": {
+        "location": "data",
+        "date": "2022-05-25T14:21:59Z",
+        "size": 1172,
+        "sha": "694c28d6941bb4b595139c73d4f9d04ca99cc712",
+        "md5": "d8fda53c7d3e1847f74e62f7324b1ea1"
+      },
+      "va059_zp_sdad_2019_speed_measurements.csv.xz": {
+        "location": "data",
+        "date": "2022-05-25T14:21:59Z",
+        "size": 4752,
+        "sha": "aaf0e90faf3306fa1c3f12c4cd61011efc2b32e0",
+        "md5": "415ca1bc449e30619c9863533f6362fe"
       }
     }
   },
@@ -1152,40 +1032,6 @@
         "size": 1872,
         "sha": "db38ea4950eb15d8180facb23bb33f6fe4922a38",
         "md5": "35136c02bde5ead6933326578308cc63"
-      }
-    }
-  },
-  "uva-bi-sdad/dc.osrm.school.drve": {
-    "distributions": {
-      "dataverse": {
-        "doi": "10.18130/V3/JVAP9L",
-        "server": "https://dataverse.lib.virginia.edu/",
-        "id": 55852,
-        "files": {
-          "va_hdcttr_osm_2022_post_hs_drive_times.csv.xz": {
-            "id": 55957,
-            "date": "2022-02-25T00:00:00Z",
-            "size": 123564,
-            "md5": "4b470815858ad93e41da38594c730cbe"
-          }
-        }
-      }
-    },
-    "url": "https://github.com/uva-bi-sdad/dc.osrm.school.drve",
-    "files": {
-      "va_hdcttr_2021_osm_post_hs_drive_times.csv.xz": {
-        "location": "data",
-        "date": "2022-04-12T02:11:12Z",
-        "size": 122428,
-        "sha": "738c561dc18004f5b1425e7a3369e462aadfcf4b",
-        "md5": "874dae99917dbe39d37c3512655f5109"
-      },
-      "va_hdcttr_osm_2022_post_hs_drive_times.csv.xz": {
-        "location": "data",
-        "date": "2022-04-12T02:11:12Z",
-        "size": 123564,
-        "sha": "9b2fd0d52792566c5973167eabb31c17589654ab",
-        "md5": "4b470815858ad93e41da38594c730cbe"
       }
     }
   },
@@ -1307,6 +1153,41 @@
         "size": 94000,
         "sha": "45ab00e8c5d6c3c39db4fc9eb9a3be4b1ff9d9a2",
         "md5": "02a59cfa0d1d12632f4aea7c59c86332"
+      },
+      "va013_nb_sdad_2013_2019_demographics.csv.xz": {
+        "location": "data",
+        "date": "2022-06-01T16:06:14Z",
+        "size": 94000,
+        "sha": "45ab00e8c5d6c3c39db4fc9eb9a3be4b1ff9d9a2",
+        "md5": "02a59cfa0d1d12632f4aea7c59c86332"
+      },
+      "va059_hsr_sdad_2019_demographics.csv.xz": {
+        "location": "data",
+        "date": "2022-06-01T16:06:14Z",
+        "size": 1176,
+        "sha": "80850385d54480e44b7138748bfc623054aaceda",
+        "md5": "27dac959230269b07c749164e7a37bce"
+      },
+      "va059_pd_sdad_2019_demographics.csv.xz": {
+        "location": "data",
+        "date": "2022-06-01T16:06:14Z",
+        "size": 3624,
+        "sha": "ad250723c74e5f69931124adfa9d5daa45550e68",
+        "md5": "359bd8fed0ee1e97fd55856451b6ad77"
+      },
+      "va059_spd_sdad_2019_demographics.csv.xz": {
+        "location": "data",
+        "date": "2022-06-01T16:06:14Z",
+        "size": 2524,
+        "sha": "db6012494ac34634e26f79c1dbde56a3377649a3",
+        "md5": "9a0f9ee762e45ba6c11be371b3d0c475"
+      },
+      "va059_zp_sdad_2019_demographics.csv.xz": {
+        "location": "data",
+        "date": "2022-06-01T16:06:14Z",
+        "size": 12296,
+        "sha": "84c254234145d1176e157825476ef4ad5af8a2cb",
+        "md5": "e0faa4d2219b001bf2c111fddb5c0af0"
       }
     }
   },
@@ -1343,10 +1224,10 @@
       },
       "va_013_cabg_sdad_2021_latino_east_african_gravity_models.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:15Z",
-        "size": 166868,
-        "sha": "3f1d0f484f993016c54f5e5af589bf377a5b190d",
-        "md5": "74316669ccc3dfbe42d05dd7eb393d91"
+        "date": "2022-06-01T21:37:56Z",
+        "size": 165744,
+        "sha": "13a9196d52deec41ea52d9d1b04a4bb3e4603fdb",
+        "md5": "015d7a6507b8371c52c024964e67356b"
       },
       "va_cttr_osrm_2021_supermarket_drive_times.csv.xz": {
         "location": "data",
@@ -1813,5 +1694,128 @@
   "uva-bi-sdad/dc.epa.ejs": {
     "url": "https://github.com/uva-bi-sdad/dc.epa.ejs",
     "files": []
+  },
+  "uva-bi-sdad/dc.education": {
+    "files": {
+      "nces.csv.xz": {
+        "location": "data/distribution/",
+        "date": "2022-05-16T03:17:33Z",
+        "size": 5947948,
+        "sha": "31d26e963b7c3ae41d60cd98fadfe1ccc4e52d9d",
+        "md5": "761d905e846a848ca636ba9810e3ec9a"
+      },
+      "nces_2013.csv.xz": {
+        "location": "data/working/",
+        "date": "2022-05-16T03:17:33Z",
+        "size": 1122556,
+        "sha": "e3634d0ab1cfedecb451f11a9a3d18c6afc1703f",
+        "md5": "f71f664d335d01e63178c5ad4d3f17c4"
+      },
+      "nces_2014.csv.xz": {
+        "location": "data/working/",
+        "date": "2022-05-16T03:17:33Z",
+        "size": 1124128,
+        "sha": "00bba492bc98fb41c912da3c2b78daf3e692f6f7",
+        "md5": "40018d3450cea57c9449a5ae9fee2b85"
+      },
+      "nces_2015.csv.xz": {
+        "location": "data/working/",
+        "date": "2022-05-16T03:17:33Z",
+        "size": 1122808,
+        "sha": "4e3834eb577f09b4328a8bc2d612aaf327f1b496",
+        "md5": "55572313d849e4d2a5afa8d8226b29e8"
+      },
+      "nces_2016.csv.xz": {
+        "location": "data/working/",
+        "date": "2022-05-16T03:17:33Z",
+        "size": 1122584,
+        "sha": "573743497b9a0ef6745ca08f161d0ae83df0f8e2",
+        "md5": "42c524bb9250ee34ce6e2cc3683eaede"
+      },
+      "nces_2017.csv.xz": {
+        "location": "data/working/",
+        "date": "2022-05-16T03:17:33Z",
+        "size": 1130052,
+        "sha": "c4c5b87f03b8ba0dcdabf0150a655601a392fa85",
+        "md5": "59d88c0c2cccf9af013317ff431775a8"
+      },
+      "nces_2018.csv.xz": {
+        "location": "data/working/",
+        "date": "2022-05-16T03:17:33Z",
+        "size": 1120828,
+        "sha": "9d62e36f21e0d96ed62d49f8b37b57d8c3464677",
+        "md5": "2775525d605264c3ab5ae8608fcb62af"
+      },
+      "nces_2019.csv.xz": {
+        "location": "data/working/",
+        "date": "2022-05-16T03:17:33Z",
+        "size": 1105164,
+        "sha": "f5a953d1d21b2ed023faa7ac86efca2c007c093f",
+        "md5": "a4a2b2066d2ecef767623e2337f0ba75"
+      },
+      "nces_2020.csv.xz": {
+        "location": "data/working/",
+        "date": "2022-05-16T03:17:33Z",
+        "size": 1201324,
+        "sha": "a5236e6d46bca2690cd37ff8adf4da5198525aec",
+        "md5": "4c29f02e998e3a9055c5e5a1388e552a"
+      },
+      "traveltimes_2013.csv.xz": {
+        "location": "data/working/",
+        "date": "2022-05-16T03:17:33Z",
+        "size": 5405048,
+        "sha": "7c5f49f8500ee0a0a44f4c9813bffbe594de0c4a",
+        "md5": "f659742c9c43317ee550ffa3d21419a0"
+      },
+      "traveltimes_2014.csv.xz": {
+        "location": "data/working/",
+        "date": "2022-05-16T03:17:33Z",
+        "size": 5353504,
+        "sha": "bf6f15bf5acc902a9f47ee26596d07858dc41e40",
+        "md5": "0a267f3582b80b8a252d9ab06f738772"
+      },
+      "traveltimes_2015.csv.xz": {
+        "location": "data/working/",
+        "date": "2022-05-16T03:17:33Z",
+        "size": 5281872,
+        "sha": "bc0dd6263fe584d11dad1456ec88a4bef67513e8",
+        "md5": "951ed5dc08da3ceb85c89fcdfc51bcf5"
+      },
+      "traveltimes_2016.csv.xz": {
+        "location": "data/working/",
+        "date": "2022-05-16T03:17:33Z",
+        "size": 4989740,
+        "sha": "d26dd3f2c78c427516245a8a90bd05551de515e7",
+        "md5": "5337cffd21e6acac54771e6a81d2b144"
+      },
+      "traveltimes_2017.csv.xz": {
+        "location": "data/working/",
+        "date": "2022-05-16T03:17:33Z",
+        "size": 4859164,
+        "sha": "4abecda7a2461c51572aa92523b5f7383f1a531f",
+        "md5": "e04949deecee575700e2364dee2591b3"
+      },
+      "traveltimes_2018.csv.xz": {
+        "location": "data/working/",
+        "date": "2022-05-16T03:17:33Z",
+        "size": 4653536,
+        "sha": "e992b8487151de0ea0a1f7d6a138dd40f1da3a01",
+        "md5": "35ac89cb2ccae1d97fcbff9e4645bb04"
+      },
+      "traveltimes_2019.csv.xz": {
+        "location": "data/working/",
+        "date": "2022-05-16T03:17:33Z",
+        "size": 4506128,
+        "sha": "161fe197a63f4fff74fdc73af78ebdbff07b6abb",
+        "md5": "e830755280a71143fca7422ba5880b71"
+      },
+      "traveltimes_2020.csv.xz": {
+        "location": "data/working/",
+        "date": "2022-05-16T03:17:34Z",
+        "size": 4819056,
+        "sha": "382ac97349d1f70e63af343bff6c16570a98406e",
+        "md5": "681c5ac22ee3eda9208853dfc6c7b837"
+      }
+    }
   }
 }
