@@ -8,6 +8,7 @@
     "emp_rate:emp_rate",
     "daycare_access_scores:daycare_cnt",
     "daycare_access_scores:daycare_3sfca",
+    "daycare_access_scores:daycare_median_drive_time_top5",
     "nces:schools_2year_per_100k",
     "nces:schools_2year_min_drivetime",
     "nces:schools_under2year_per_100k",

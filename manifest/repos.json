@@ -413,6 +413,13 @@
         "size": 31300,
         "sha": "cee5800a24b13be27ee2d8dc4a9a22ee39da8fb5",
         "md5": "c37b5749b30a5f8b7725010144f03b9a"
+      },
+      "va_hdcttr_sdad_2021_perc_income_on_internet.csv.xz": {
+        "location": "data",
+        "date": "2022-06-02T15:42:49Z",
+        "size": 94172,
+        "sha": "54c93cc55454803e54b408bfd4fbbd7e647732b1",
+        "md5": "10c66feb66a0587f94ce6146c91ead39"
       }
     }
   },
@@ -602,10 +609,10 @@
       },
       "va_hdct_fa_2010_2019_food_insecurity_and_cost.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:15Z",
-        "size": 11992,
-        "sha": "a868de16f6395b06a30ea555d255db9bc6afcb9f",
-        "md5": "94f3cba884057acc9d6a0f77e411bf24"
+        "date": "2022-06-02T07:33:38Z",
+        "size": 53704,
+        "sha": "6e066c42e4ce4c82d3edb24271491c5338e2e3d1",
+        "md5": "8b2c59e0c4d6fbc308cbe3a7ad88a43a"
       }
     }
   },
@@ -698,6 +705,13 @@
         "size": 102540,
         "sha": "a03d2695af0aa0e1f757362d2f1bd93a5069f0bc",
         "md5": "6e0b85fd5ae790c70fd75e93fa6b27ff"
+      },
+      "va_hdcttr_sdad_2021_mental_access_scores.csv.xz": {
+        "location": "data",
+        "date": "2022-06-02T14:15:51Z",
+        "size": 106168,
+        "sha": "1bb7e7e2a4e3709633299a79dac564983b717e1a",
+        "md5": "5c154d05806561663fc9cddbd21062c3"
       }
     }
   },
@@ -1028,10 +1042,10 @@
     "files": {
       "va013_catr_sdad_2022_mrfei.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:17Z",
-        "size": 1872,
-        "sha": "db38ea4950eb15d8180facb23bb33f6fe4922a38",
-        "md5": "35136c02bde5ead6933326578308cc63"
+        "date": "2022-06-02T18:48:04Z",
+        "size": 1652,
+        "sha": "6c3a3ac54d1b33ff33142bbd98f15299a91c3735",
+        "md5": "15650a160f70b8e07472dc6f98dc9b13"
       }
     }
   },
