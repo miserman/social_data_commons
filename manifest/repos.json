@@ -1741,122 +1741,122 @@
     "files": {
       "nces.csv.xz": {
         "location": "data/distribution/",
-        "date": "2022-06-16T20:12:19Z",
-        "size": 5947164,
-        "sha": "897cc730e52c81bd1585072e5d7641429d205f1c",
-        "md5": "0021b733a41efcac0c12e7d9a52aaf0a"
+        "date": "2022-06-24T03:35:02Z",
+        "size": 6916980,
+        "sha": "a1dfdae419a1c4f4191ea27dbe6f0bd11249e3ad",
+        "md5": "1fecfe33bbc7bde613504584431b4e40"
       },
       "nces_2013.csv.xz": {
         "location": "data/working/",
-        "date": "2022-05-16T03:17:33Z",
-        "size": 1122556,
-        "sha": "e3634d0ab1cfedecb451f11a9a3d18c6afc1703f",
-        "md5": "f71f664d335d01e63178c5ad4d3f17c4"
+        "date": "2022-06-24T03:35:02Z",
+        "size": 3079236,
+        "sha": "c21dfe6bda5b7c99d73be1ec8b5f057d4a782103",
+        "md5": "7f07994a14fab4b8533c4d8910062834"
       },
       "nces_2014.csv.xz": {
         "location": "data/working/",
-        "date": "2022-05-16T03:17:33Z",
-        "size": 1124128,
-        "sha": "00bba492bc98fb41c912da3c2b78daf3e692f6f7",
-        "md5": "40018d3450cea57c9449a5ae9fee2b85"
+        "date": "2022-06-24T03:35:02Z",
+        "size": 3068768,
+        "sha": "08e16bccd55f70e78f5addc7577f691de1b1fff9",
+        "md5": "26a388f99a9eda1d1280ce4f6a451c1b"
       },
       "nces_2015.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-16T20:12:19Z",
-        "size": 1122072,
-        "sha": "5419cb8aa223e020089106823311b07d9327e532",
-        "md5": "99ebf3e35fc0d49d02a91f6561e1b782"
+        "date": "2022-06-24T03:35:02Z",
+        "size": 3061444,
+        "sha": "adc72630ee6bef603a4771bca8288ac9998b466d",
+        "md5": "bd7ea7e86cda7af96a2dde42d0e885cd"
       },
       "nces_2016.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-16T20:12:19Z",
-        "size": 1121796,
-        "sha": "9c9919f8206db9671a65aedc3abec0dde4703aa5",
-        "md5": "4fdcde2582894b90bcb55005b0168097"
+        "date": "2022-06-24T03:35:02Z",
+        "size": 3066032,
+        "sha": "afe653b90df6a625fa06624c96a6c5a2e7228a06",
+        "md5": "ce21194e45abf063ed73fe9ee389695c"
       },
       "nces_2017.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-16T20:12:19Z",
-        "size": 1125472,
-        "sha": "d8684f807b3d63bba275b9df20e6c4cc5992b697",
-        "md5": "01716374f6b1ed7caddc05ffe89dee41"
+        "date": "2022-06-24T03:35:02Z",
+        "size": 3055208,
+        "sha": "a4e53c5279caa447e97ba30485d62bccdb6892f3",
+        "md5": "31142029b0903c8ec3c9d33fb264a567"
       },
       "nces_2018.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-16T20:12:19Z",
-        "size": 1120584,
-        "sha": "59c3ad758af92367df7ad0dd0b4f0656d60aa7f0",
-        "md5": "dc5b978591ca4b75ddbe3d8740e7b38b"
+        "date": "2022-06-24T03:35:02Z",
+        "size": 3045196,
+        "sha": "6151f1316cff0bcce93a09e3f857bff3db76706d",
+        "md5": "0319c97eab2cf75b08d32ddea6287ba6"
       },
       "nces_2019.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-16T20:12:19Z",
-        "size": 1104492,
-        "sha": "3a0ba1e83aa326ac583fac7c7753e0c21ba08ca9",
-        "md5": "a748632fb9d35573cb0001131de6925c"
+        "date": "2022-06-24T03:35:02Z",
+        "size": 2974520,
+        "sha": "cd28965e49e467e607bf299f7b34a8ee44410732",
+        "md5": "56f4855205bb25a33ccd886367b193e0"
       },
       "nces_2020.csv.xz": {
         "location": "data/working/",
-        "date": "2022-05-16T03:17:33Z",
-        "size": 1201324,
-        "sha": "a5236e6d46bca2690cd37ff8adf4da5198525aec",
-        "md5": "4c29f02e998e3a9055c5e5a1388e552a"
+        "date": "2022-06-24T03:35:02Z",
+        "size": 3246424,
+        "sha": "e99c574bc33291d142a706d22e7348bd3a49482d",
+        "md5": "212c2ed1f02ec1a14b04671dd944220b"
       },
       "traveltimes_2013.csv.xz": {
         "location": "data/working/",
-        "date": "2022-05-16T03:17:33Z",
-        "size": 5405048,
-        "sha": "7c5f49f8500ee0a0a44f4c9813bffbe594de0c4a",
-        "md5": "f659742c9c43317ee550ffa3d21419a0"
+        "date": "2022-06-24T03:35:03Z",
+        "size": 48775688,
+        "sha": "38ef2c721b46c3d389254e1d12862bfc50170e78",
+        "md5": "ea7b0905cd9cd493aad92dc16d4cd685"
       },
       "traveltimes_2014.csv.xz": {
         "location": "data/working/",
-        "date": "2022-05-16T03:17:33Z",
-        "size": 5353504,
-        "sha": "bf6f15bf5acc902a9f47ee26596d07858dc41e40",
-        "md5": "0a267f3582b80b8a252d9ab06f738772"
+        "date": "2022-06-24T03:35:03Z",
+        "size": 48137336,
+        "sha": "920ec7955315fa5368d50ccbde21d988518d7ac2",
+        "md5": "e67d0362e39524cdf9585b3a0f0367f2"
       },
       "traveltimes_2015.csv.xz": {
         "location": "data/working/",
-        "date": "2022-05-16T03:17:33Z",
-        "size": 5281872,
-        "sha": "bc0dd6263fe584d11dad1456ec88a4bef67513e8",
-        "md5": "951ed5dc08da3ceb85c89fcdfc51bcf5"
+        "date": "2022-06-24T03:35:03Z",
+        "size": 46973960,
+        "sha": "b032f0e6550fe858fd766703953ce6cb8757a3a9",
+        "md5": "f75091aa24021abd088ebb2723c00977"
       },
       "traveltimes_2016.csv.xz": {
         "location": "data/working/",
-        "date": "2022-05-16T03:17:33Z",
-        "size": 4989740,
-        "sha": "d26dd3f2c78c427516245a8a90bd05551de515e7",
-        "md5": "5337cffd21e6acac54771e6a81d2b144"
+        "date": "2022-06-24T03:35:03Z",
+        "size": 44552828,
+        "sha": "b299625135b8ba9b29b5ff2078939184ece253cc",
+        "md5": "4c7daa97524bac652608d8abf8bdae11"
       },
       "traveltimes_2017.csv.xz": {
         "location": "data/working/",
-        "date": "2022-05-16T03:17:33Z",
-        "size": 4859164,
-        "sha": "4abecda7a2461c51572aa92523b5f7383f1a531f",
-        "md5": "e04949deecee575700e2364dee2591b3"
+        "date": "2022-06-24T03:35:03Z",
+        "size": 43071656,
+        "sha": "919d6aa9da364fe0b06854cc341aa44d458f620f",
+        "md5": "29d5ec0ca5456a7594b584f95b1553e8"
       },
       "traveltimes_2018.csv.xz": {
         "location": "data/working/",
-        "date": "2022-05-16T03:17:33Z",
-        "size": 4653536,
-        "sha": "e992b8487151de0ea0a1f7d6a138dd40f1da3a01",
-        "md5": "35ac89cb2ccae1d97fcbff9e4645bb04"
+        "date": "2022-06-24T03:35:03Z",
+        "size": 41203400,
+        "sha": "eaf74ab684a133a2cf2fc252e6b960e852f564f5",
+        "md5": "b1739439c681dc8372b0b7ae56a5ddfe"
       },
       "traveltimes_2019.csv.xz": {
         "location": "data/working/",
-        "date": "2022-05-16T03:17:33Z",
-        "size": 4506128,
-        "sha": "161fe197a63f4fff74fdc73af78ebdbff07b6abb",
-        "md5": "e830755280a71143fca7422ba5880b71"
+        "date": "2022-06-24T03:35:03Z",
+        "size": 39156680,
+        "sha": "dc6cfeeab2305c37870c3c39eab8444a9858054c",
+        "md5": "9b23b00b46fa465157bd00b148cc76b8"
       },
       "traveltimes_2020.csv.xz": {
         "location": "data/working/",
-        "date": "2022-05-16T03:17:34Z",
-        "size": 4819056,
-        "sha": "382ac97349d1f70e63af343bff6c16570a98406e",
-        "md5": "681c5ac22ee3eda9208853dfc6c7b837"
+        "date": "2022-06-24T03:35:04Z",
+        "size": 40957568,
+        "sha": "18b78a95e52108bd246ef5e31761634a2aa56f7f",
+        "md5": "cd5889cffd512b9681532a7ea50d541c"
       }
     }
   }
