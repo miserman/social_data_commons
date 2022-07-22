@@ -25,21 +25,21 @@
     "files": {
       "dcmdva_hdcttrbg_2017_2019_broadband_withoutint_compdev.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:05Z",
+        "date": "2022-03-29T12:20:25Z",
         "size": 1668380,
         "sha": "71612dc75928602a7d0e4550884e8cfe524217c7",
         "md5": "8b2a6ab14f6c20b9277ee847d2f10a1f"
       },
       "ncr_cttrbg_2017_2019_broadband_withoutint_compdev.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:05Z",
+        "date": "2022-03-29T12:20:25Z",
         "size": 539972,
         "sha": "a7e3b5cc6b8285df186b75dd8e9d9e1172d04b96",
         "md5": "1954de85806bfc8a965c0afd7c4b64c1"
       },
       "va_hdcttr_2017_2019_broadband_withoutint_compdev.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:05Z",
+        "date": "2022-03-29T12:20:25Z",
         "size": 288344,
         "sha": "658f0364453a39c8dc8769486ec6c87ca1db60d9",
         "md5": "fe5a034ba486676a25c50b90ee7c65c1"
@@ -93,21 +93,21 @@
       },
       "dcmdva_hdcttrbg_acs_2009_2019_demographics.csv.xz": {
         "location": "data",
-        "date": "2022-06-01T16:06:13Z",
+        "date": "2022-06-08T10:58:04Z",
         "size": 40006688,
         "sha": "3e9a8e43a070b82ee39dbe7af87798d1b336e77e",
         "md5": "b17c37ec6f4a5fe3d1846733869e36d5"
       },
       "ncr_cttrbg_acs_2009_2019_demographics.csv.xz": {
         "location": "data",
-        "date": "2022-06-01T16:06:13Z",
+        "date": "2022-06-08T10:58:04Z",
         "size": 13722628,
         "sha": "783aad48c9cb36e1a68c39d6fe648147e7f82579",
         "md5": "3dfef8afd7aec50ed062802281fbf8e2"
       },
       "va_hdcttr_acs_2009_2019_demographics.csv.xz": {
         "location": "data",
-        "date": "2022-06-01T16:06:13Z",
+        "date": "2022-06-08T10:58:04Z",
         "size": 8879076,
         "sha": "f724dba94e07262291bbed8ebc59b9dbca5eeed5",
         "md5": "83734acabf1cf4cbd9c7febef81cfef3"
@@ -140,21 +140,21 @@
     "files": {
       "ncr_cttr_acs_2010_2019_post_hs_education.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:10Z",
+        "date": "2022-03-29T12:20:41Z",
         "size": 174188,
         "sha": "0c1a838b9d3afcaf1abf248d3a5c74f574c2e324",
         "md5": "63b3ba738957a70661cf34e74ec2600d"
       },
       "va_hdcttr_acs_2010_2019_post_hs_education.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:10Z",
+        "date": "2022-03-29T12:20:41Z",
         "size": 302764,
         "sha": "b71fa5fac32e5c4b18270b81912299898dc5d45f",
         "md5": "d1db104eee5d29ace9cd7a9b11bf7bc7"
       },
       "va_hdcttr_acs_2015_2019_post_hs_education.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:10Z",
+        "date": "2022-03-29T12:20:41Z",
         "size": 40804,
         "sha": "80421fece6df5ff87ab08cafdb76a8281c956bf5",
         "md5": "a60503290e9bfe9735c013b1710b408d"
@@ -181,7 +181,7 @@
     "files": {
       "va_tr_acs_2015_2019_emp_rate.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:10Z",
+        "date": "2022-03-29T12:20:43Z",
         "size": 178072,
         "sha": "5bc46a8f7643af16e7fe251ab9a3fa9b4b60ce3c",
         "md5": "35fcb3181e983499603d5c160ce32a74"
@@ -214,14 +214,14 @@
     "files": {
       "ncr_cttrbg_acs5_2015_2019_no_health_insurance_19_to_64.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:04Z",
+        "date": "2022-03-29T12:20:22Z",
         "size": 397856,
         "sha": "024fa2d52806101e48c9ded5e9c24682653e856d",
         "md5": "c2600bbf5e0a297433c68e559ac02ff7"
       },
       "va_hdcttr_acs5_2015_2019_no_health_insurance_19_to_64.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:04Z",
+        "date": "2022-03-29T12:20:22Z",
         "size": 202628,
         "sha": "8588f273fcfbc71e3510b71bd2a389b74e0a2284",
         "md5": "9848772e50179691fb5367dbb10c6465"
@@ -254,14 +254,14 @@
     "files": {
       "ncr_cttrbg_acs5_2009_2019_housing_access.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:17Z",
+        "date": "2022-03-29T12:21:02Z",
         "size": 718656,
         "sha": "0d181fb88dfe0d7ab84c5c8a78463265764bb416",
         "md5": "39a46ac8c15684cd31bb1382252958ca"
       },
       "vadcmd_cttrbg_acs5_2009_2019_housing_access.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:17Z",
+        "date": "2022-03-29T12:21:02Z",
         "size": 718656,
         "sha": "0d181fb88dfe0d7ab84c5c8a78463265764bb416",
         "md5": "39a46ac8c15684cd31bb1382252958ca"
@@ -288,7 +288,7 @@
     "files": {
       "va013_trbg_arlopendata_2021_parks_catchment_scores.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:14Z",
+        "date": "2022-03-29T12:20:53Z",
         "size": 12068,
         "sha": "8b325f30d6bdd0d1b49ba8585de8fed93a51373d",
         "md5": "5bed3e917542bdb33b85754fabaab63c"
@@ -315,7 +315,7 @@
     "files": {
       "va_ct_bea_2015_2020_earnings_per_job.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:13Z",
+        "date": "2022-03-29T12:20:52Z",
         "size": 12548,
         "sha": "c7b9cc9d8bbbc03251da488648eae4ca584826ad",
         "md5": "715c5be2c01baf9e201e52c28a6a0b5b"
@@ -360,49 +360,49 @@
     "files": {
       "dcmdva_broadbandnow_acs_sdad_2021_perc_income_on_internet.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:07Z",
+        "date": "2022-03-29T12:20:33Z",
         "size": 690944,
         "sha": "723069775023f5b02a07b86a0859e5e63564da85",
         "md5": "152ad968743db5b75ffc99936685a95d"
       },
       "dcmdva_hdcttrbg_2021_broadband_now_internet_package_price.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:07Z",
+        "date": "2022-03-29T12:20:33Z",
         "size": 337564,
         "sha": "c3e4d8e479f75edbfb9ad1b4c5c97722aded9dbd",
         "md5": "a711aaf460dfe6d8c67b3656fc702d8b"
       },
       "dcmdva_hdcttrbg_broadbandnow_acs_sdad_2021_perc_income_on_internet.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:07Z",
+        "date": "2022-03-29T12:20:33Z",
         "size": 599828,
         "sha": "519b29c02cc22a19a552b90e54a56fed454aa974",
         "md5": "f03b53e24daec48aba680ec648b323fa"
       },
       "dmv_tr_broadband_now_2021_internet_package_price.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:07Z",
+        "date": "2022-03-29T12:20:33Z",
         "size": 39856,
         "sha": "901f24f68da8c028394c295833c7e3ea3fd504da",
         "md5": "3bc8f81359b8c82aeef42918c2a28be7"
       },
       "ncr_cttrbg_2021_broadband_now_internet_package_price.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:07Z",
+        "date": "2022-03-29T12:20:33Z",
         "size": 107388,
         "sha": "c5d2f37a96aee500ee2c5c305b437f90bbb6cd2c",
         "md5": "cea0cb0b482972a2f580bec109078012"
       },
       "ncr_cttrbg_broadbandnow_acs_sdad_2021_perc_income_on_internet.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:07Z",
+        "date": "2022-03-29T12:20:33Z",
         "size": 298344,
         "sha": "c2a163627d69cee00c81a5221006d89d64f94721",
         "md5": "ff1a576d1a3d7a5d12af924b91b020c6"
       },
       "va_hdcttr_2021_broadband_now_internet_package_price.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:07Z",
+        "date": "2022-03-29T12:20:33Z",
         "size": 59568,
         "sha": "9b7cf97c36818e32ac57ad6efe43156514414d5d",
         "md5": "f425934e0d6bb2b0b97417f11d213d80"
@@ -416,7 +416,7 @@
       },
       "va_hdcttr_sdad_2021_perc_income_on_internet.csv.xz": {
         "location": "data",
-        "date": "2022-06-02T15:42:49Z",
+        "date": "2022-06-08T10:57:45Z",
         "size": 94172,
         "sha": "54c93cc55454803e54b408bfd4fbbd7e647732b1",
         "md5": "10c66feb66a0587f94ce6146c91ead39"
@@ -443,7 +443,7 @@
     "files": {
       "va_hdct_chr_2015_2021_preventable_hospitalizations.csv.xz": {
         "location": "data",
-        "date": "2022-05-02T04:06:10Z",
+        "date": "2022-05-18T10:24:54Z",
         "size": 6204,
         "sha": "ac22e681105eeb8ff48db642d81c9eb35d0b9e03",
         "md5": "6a5361df7664cef2aa52d4a2c88b475e"
@@ -488,49 +488,49 @@
     "files": {
       "dcmdva_hdcttrbg_2014_2020_number_of_fixed_providers.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:08Z",
+        "date": "2022-03-29T12:20:35Z",
         "size": 136880,
         "sha": "95fc4324e2910c8a35bca0740f1efbd334d472fb",
         "md5": "bbac8a67aa53d0e86474b25ce9a0023e"
       },
       "dcmdva_hdcttrbg_2015_2020_number_of_mobile_providers.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:08Z",
+        "date": "2022-03-29T12:20:35Z",
         "size": 309540,
         "sha": "82d09d30534ab584bbcd9070ba4fd764e2bfde4f",
         "md5": "0635d42caaf5011f2daa7f7795eb7b30"
       },
       "ncr_cttrbg_2014_2020_number_of_fixed_providers.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:08Z",
+        "date": "2022-03-29T12:20:35Z",
         "size": 274872,
         "sha": "6d9a5d11a9b5f895356faa14e88141faf79f85e2",
         "md5": "a5ea7283a09dc7228352b1863609ec6e"
       },
       "ncr_cttrbg_2015_2020_number_of_mobile_providers.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:08Z",
+        "date": "2022-03-29T12:20:35Z",
         "size": 104732,
         "sha": "887c67b9f7aca89602cab575239592f7782069ed",
         "md5": "9cba6c77bfe1ae5dbaf96eaa47cafa29"
       },
       "va_hdcttr_2014_2020_number_of_fixed_providers.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:08Z",
+        "date": "2022-03-29T12:20:35Z",
         "size": 136844,
         "sha": "d0ff4c936bf914bc79ab87fd18f74e37724505c7",
         "md5": "18a0216faa70847f0d072b3499a46af0"
       },
       "va_hdcttr_2015_2020_number_of_mobile_providers.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:08Z",
+        "date": "2022-03-29T12:20:35Z",
         "size": 50872,
         "sha": "a512b40e13928d63dd287d4810d642ffcf2637cc",
         "md5": "6b8ad7bd96ee371098322a0db4ab5c8c"
       },
       "va_hdcttrbg_2015_2020_number_of_mobile_providers.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:08Z",
+        "date": "2022-03-29T12:20:35Z",
         "size": 152780,
         "sha": "5b2dbafaac0d1727d3582702ff8f0b204418211f",
         "md5": "39cc8b8a2316fd481b4706bb05a99e0e"
@@ -581,35 +581,35 @@
     "files": {
       "ncr_ct_fa_2010_2019_food_insecurity_and_cost.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:15Z",
+        "date": "2022-03-29T12:20:56Z",
         "size": 3984,
         "sha": "b20a674c50cef8263aa8be8fadb629d84047638e",
         "md5": "bdde0e91300ea7694682c1b051943a08"
       },
       "ncr_ct_fa_2011_2019_weighted_annual_food_budget_shortfall.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:15Z",
+        "date": "2022-03-29T12:20:56Z",
         "size": 824,
         "sha": "54772eaa803bd89b2eb51d403296472121e03b35",
         "md5": "c7863f1aa1534031d80f98076c33a2a9"
       },
       "ncr_tr_cafb_2019_2021_food_insecurity_estimates.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:15Z",
+        "date": "2022-03-29T12:20:56Z",
         "size": 15704,
         "sha": "5cb3e0764d92b0aaf5b9edcaecdef4f4521830c7",
         "md5": "f8ce0b94caf93842f9b93400f4a232aa"
       },
       "va_ct_fa_2011_2019_weighted_annual_food_budget_shortfall.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:15Z",
+        "date": "2022-03-29T12:20:56Z",
         "size": 4248,
         "sha": "f66a241ce17161495ebddff10874dd0e10c56e9b",
         "md5": "3d5cd9b3ba83b00fe4957e82f7bd20ae"
       },
       "va_hdct_fa_2010_2019_food_insecurity_and_cost.csv.xz": {
         "location": "data",
-        "date": "2022-06-02T07:33:38Z",
+        "date": "2022-06-08T10:58:02Z",
         "size": 53704,
         "sha": "6e066c42e4ce4c82d3edb24271491c5338e2e3d1",
         "md5": "8b2c59e0c4d6fbc308cbe3a7ad88a43a"
@@ -642,21 +642,21 @@
     "files": {
       "dmv_cttrbg_hifld_2021_acccess_scores_ems.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:00Z",
+        "date": "2022-03-29T12:20:13Z",
         "size": 195376,
         "sha": "f6f098a06073bd8d7bfe6fd865c8a124ce9bb6e7",
         "md5": "c387e66edfef98899f139570524e807c"
       },
       "dmv_cttrbg_hifld_2021_access_scores_ems.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:00Z",
+        "date": "2022-03-29T12:20:13Z",
         "size": 195376,
         "sha": "f6f098a06073bd8d7bfe6fd865c8a124ce9bb6e7",
         "md5": "c387e66edfef98899f139570524e807c"
       },
       "va_hdcttrbg_hifld_2021_access_scores_ems.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:00Z",
+        "date": "2022-03-29T12:20:13Z",
         "size": 423784,
         "sha": "05f3a58a54f4378ab533b228bb6856d27a282ce6",
         "md5": "3c01808dd857cf16c90c8321ae206718"
@@ -701,14 +701,14 @@
     "files": {
       "va_hdcttr_sdad_2021_substance_access_scores.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:01Z",
+        "date": "2022-03-29T12:20:16Z",
         "size": 102540,
         "sha": "a03d2695af0aa0e1f757362d2f1bd93a5069f0bc",
         "md5": "6e0b85fd5ae790c70fd75e93fa6b27ff"
       },
       "va_hdcttr_sdad_2021_mental_access_scores.csv.xz": {
         "location": "data",
-        "date": "2022-06-02T14:15:51Z",
+        "date": "2022-06-08T10:57:41Z",
         "size": 106168,
         "sha": "1bb7e7e2a4e3709633299a79dac564983b717e1a",
         "md5": "5c154d05806561663fc9cddbd21062c3"
@@ -741,21 +741,21 @@
     "files": {
       "dmv_cttrbg_hifld_2021_acccess_scores_hospitals.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:59Z",
+        "date": "2022-03-29T12:20:11Z",
         "size": 190276,
         "sha": "36a9312161f8ef8b870dd3ba95ba3cf44c335c88",
         "md5": "cf29cf2aee849f4d64ea47fc1594e240"
       },
       "dmv_cttrbg_hifld_2021_access_scores_hospitals.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:59Z",
+        "date": "2022-03-29T12:20:11Z",
         "size": 190276,
         "sha": "36a9312161f8ef8b870dd3ba95ba3cf44c335c88",
         "md5": "cf29cf2aee849f4d64ea47fc1594e240"
       },
       "va_hdcttrbg_hifld_2021_access_scores_hospitals.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:59Z",
+        "date": "2022-03-29T12:20:11Z",
         "size": 378208,
         "sha": "44505494068bab2b24818400b06df0a2b8c8b728",
         "md5": "6c42bcb9d083df860dda8d69f447cf1c"
@@ -800,35 +800,35 @@
     "files": {
       "dcmdva_pl_hifld_2021_urgent_care.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:58Z",
+        "date": "2022-03-29T12:20:08Z",
         "size": 15556,
         "sha": "3d61e2f5e608189a38c3b0acae3cc6ebe0d0eb07",
         "md5": "eb197d78e99f7518f1988d01859ab5c9"
       },
       "dmv_cttrbg_hifld_2021_acccess_scores_urgent.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:58Z",
+        "date": "2022-03-29T12:20:08Z",
         "size": 189188,
         "sha": "d43690a1a56c482acc0e82dfbde9b1eed7662cb7",
         "md5": "3e161f50e76b78ed1b0e1efb3515f95b"
       },
       "dmv_cttrbg_hifld_2021_access_scores_urgent.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:58Z",
+        "date": "2022-03-29T12:20:08Z",
         "size": 189188,
         "sha": "d43690a1a56c482acc0e82dfbde9b1eed7662cb7",
         "md5": "3e161f50e76b78ed1b0e1efb3515f95b"
       },
       "ncr_pl_hifld_2021_urgent_care.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:58Z",
+        "date": "2022-03-29T12:20:08Z",
         "size": 6416,
         "sha": "e2e77a9d0152521b0d5d1f944356b706990f903c",
         "md5": "075b3b110df18510859e6b87f474ec03"
       },
       "va_hdcttrbg_hifld_2021_access_scores_urgent.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:58Z",
+        "date": "2022-03-29T12:20:08Z",
         "size": 391620,
         "sha": "3541e1ab2d528d89f180dec59e59a4ddfd98dcb6",
         "md5": "a808e02805eae0d6cfd44d022a0bc7f6"
@@ -855,7 +855,7 @@
     "files": {
       "va_hccttr_sdad_2019_health_literacy_estimates.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:09Z",
+        "date": "2022-03-29T12:20:40Z",
         "size": 13800,
         "sha": "9c1df77e4de79ba601acb07deaeca42a9acf8798",
         "md5": "14a42ebf428eed059434b60fcc567e75"
@@ -924,70 +924,70 @@
     "files": {
       "dcmdva_hdcttrbg_2019_2021q3_percent_above_threshold.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:06Z",
+        "date": "2022-03-29T12:20:28Z",
         "size": 8955944,
         "sha": "18bcd530dcfbfbc4604848b4585d113c87b7abb6",
         "md5": "76e6f2e155dfb88ebe7926bc9644d63f"
       },
       "dcmdva_hdcttrbg_2019_2021q3_speed_measurements.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:06Z",
+        "date": "2022-03-29T12:20:28Z",
         "size": 3320496,
         "sha": "0221c8235743af2a641752275250413686ea2127",
         "md5": "822a31ea38e56e6c177dbbd095798c26"
       },
       "ncr_cttrbg_2019_2021_percent_above_threshold_fixed.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:06Z",
+        "date": "2022-03-29T12:20:28Z",
         "size": 2868712,
         "sha": "72af7e893a495215655a1680bc6c96106bb19cd7",
         "md5": "26ac7c5a646180916f1b8030017dbf43"
       },
       "ncr_cttrbg_2019_2021_percent_above_threshold_mobile.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:06Z",
+        "date": "2022-03-29T12:20:28Z",
         "size": 3143204,
         "sha": "0ef167877fb840fc0b308b5e7fcf5c6fcfbca655",
         "md5": "cf5def406537fec89da70d3d6ed19506"
       },
       "ncr_cttrbg_2019_2021_speed_measurements_fixed.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:06Z",
+        "date": "2022-03-29T12:20:28Z",
         "size": 1096732,
         "sha": "21589a88dc2d623794111ef42b69a791d07de443",
         "md5": "f1690ae69605b6989886e5e733dae47f"
       },
       "ncr_cttrbg_2019_2021_speed_measurements_mobile.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:06Z",
+        "date": "2022-03-29T12:20:28Z",
         "size": 1107988,
         "sha": "c7dc64f066f7bc94806b5bd94d806eec198cf450",
         "md5": "0c444e3d7c5692c490f88c3da9eb97ee"
       },
       "va_hdcttr_2019_2021_percent_above_threshold_fixed.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:06Z",
+        "date": "2022-03-29T12:20:28Z",
         "size": 1473876,
         "sha": "f131eb6dcdc8977248a5e05b2c213e0d19aa1f4c",
         "md5": "e9974d8746de154231ff38b12f6d92bd"
       },
       "va_hdcttr_2019_2021_percent_above_threshold_mobile.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:06Z",
+        "date": "2022-03-29T12:20:28Z",
         "size": 1570472,
         "sha": "18cb1b0dba4dbcacfa16b5afdde03ee59db186d6",
         "md5": "e227092fb08718aa66b4e0b3cdad39ee"
       },
       "va_hdcttr_2019_2021_speed_measurements_fixed.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:06Z",
+        "date": "2022-03-29T12:20:28Z",
         "size": 520456,
         "sha": "8a2aa320cf1c8d17c298342c937eba28e20ccd17",
         "md5": "9fd276701585850f03f860f849f960b2"
       },
       "va_hdcttr_2019_2021_speed_measurements_mobile.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:06Z",
+        "date": "2022-03-29T12:20:28Z",
         "size": 522796,
         "sha": "7523154090742ed135ba2a32c919a024d7982b34",
         "md5": "411a913394e6080bde7d50875ee238ec"
@@ -1022,28 +1022,28 @@
       },
       "va059_hsr_sdad_2019_2019_speed_measurements.csv.xz": {
         "location": "data",
-        "date": "2022-06-08T13:23:27Z",
+        "date": "2022-06-08T10:57:44Z",
         "size": 1276,
         "sha": "9b47da40b3258c7d73fc1d23dcb4b7c4a29afe2f",
         "md5": "8f9029c3d52bef24c3e00351110eac3c"
       },
       "va059_pd_sdad_2019_2021_speed_measurements.csv.xz": {
         "location": "data",
-        "date": "2022-06-08T13:23:27Z",
+        "date": "2022-06-08T10:57:44Z",
         "size": 4012,
         "sha": "e3d34aeaca4b37b041786a9b7e48c9e5e6c76585",
         "md5": "bb81057a940d6fc16ed14670626c7d0d"
       },
       "va059_spd_sdad_2019_2021_speed_measurements.csv.xz": {
         "location": "data",
-        "date": "2022-06-08T13:23:27Z",
+        "date": "2022-06-08T10:57:44Z",
         "size": 2784,
         "sha": "020d92ffa65f7ddf6d93ac6d38f5c6f510161766",
         "md5": "2261508c997071bbec9f53a2b5e7c4b2"
       },
       "va059_zp_sdad_2019_2021_speed_measurements.csv.xz": {
         "location": "data",
-        "date": "2022-06-08T13:23:27Z",
+        "date": "2022-06-08T10:57:44Z",
         "size": 12824,
         "sha": "46ec93e24fd26d0bf09298289ab5dea227781965",
         "md5": "faa4bcf2d1c54da5b9aac82ad7887cee"
@@ -1070,7 +1070,7 @@
     "files": {
       "va013_catr_sdad_2022_mrfei.csv.xz": {
         "location": "data",
-        "date": "2022-06-02T18:48:04Z",
+        "date": "2022-06-08T10:58:03Z",
         "size": 1652,
         "sha": "6c3a3ac54d1b33ff33142bbd98f15299a91c3735",
         "md5": "15650a160f70b8e07472dc6f98dc9b13"
@@ -1103,21 +1103,21 @@
     "files": {
       "dmv_cttrbg_hifld_2021_acccess_scores_mental.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:01Z",
+        "date": "2022-03-29T12:20:15Z",
         "size": 186860,
         "sha": "05717a724cffb9172b80d9620b6680a0cb4c106c",
         "md5": "73949ebe106f64c25660c877cd118654"
       },
       "dmv_cttrbg_samhsa_2021_access_scores_mental.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:01Z",
+        "date": "2022-03-29T12:20:15Z",
         "size": 186860,
         "sha": "05717a724cffb9172b80d9620b6680a0cb4c106c",
         "md5": "73949ebe106f64c25660c877cd118654"
       },
       "va_hdcttrbg_hifld_2021_access_scores_mental.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:01Z",
+        "date": "2022-03-29T12:20:15Z",
         "size": 397952,
         "sha": "f4e15b4d49cb6502e930398b6a2b3ecbe983417d",
         "md5": "a2ae3545249a38edcca9abe375c9215a"
@@ -1150,21 +1150,21 @@
     "files": {
       "dmv_cttrbg_samhsa_2021_acccess_scores_substance.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:59Z",
+        "date": "2022-03-29T12:20:10Z",
         "size": 187212,
         "sha": "0d58da6adc993bf2818876d9876bc983d0071e22",
         "md5": "f9ad06b92566d90a78bfd07408dfc950"
       },
       "dmv_cttrbg_samhsa_2021_access_scores_substance.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:59Z",
+        "date": "2022-03-29T12:20:10Z",
         "size": 187212,
         "sha": "0d58da6adc993bf2818876d9876bc983d0071e22",
         "md5": "f9ad06b92566d90a78bfd07408dfc950"
       },
       "va_hdcttrbg_samhsa_2021_access_scores_substance.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:59Z",
+        "date": "2022-03-29T12:20:10Z",
         "size": 394416,
         "sha": "ab2242155b6e36c681388f39683db8011f95e0d5",
         "md5": "982aff9d07e7945217ff0d2cd8612b69"
@@ -1198,35 +1198,35 @@
       },
       "va013_nb_sdad_2013_2019_demographics.csv.xz": {
         "location": "data",
-        "date": "2022-06-01T16:06:14Z",
+        "date": "2022-06-08T10:58:05Z",
         "size": 94000,
         "sha": "45ab00e8c5d6c3c39db4fc9eb9a3be4b1ff9d9a2",
         "md5": "02a59cfa0d1d12632f4aea7c59c86332"
       },
       "va059_hsr_sdad_2019_demographics.csv.xz": {
         "location": "data",
-        "date": "2022-06-01T16:06:14Z",
+        "date": "2022-06-08T10:58:05Z",
         "size": 1176,
         "sha": "80850385d54480e44b7138748bfc623054aaceda",
         "md5": "27dac959230269b07c749164e7a37bce"
       },
       "va059_pd_sdad_2019_demographics.csv.xz": {
         "location": "data",
-        "date": "2022-06-01T16:06:14Z",
+        "date": "2022-06-08T10:58:05Z",
         "size": 3624,
         "sha": "ad250723c74e5f69931124adfa9d5daa45550e68",
         "md5": "359bd8fed0ee1e97fd55856451b6ad77"
       },
       "va059_spd_sdad_2019_demographics.csv.xz": {
         "location": "data",
-        "date": "2022-06-01T16:06:14Z",
+        "date": "2022-06-08T10:58:05Z",
         "size": 2524,
         "sha": "db6012494ac34634e26f79c1dbde56a3377649a3",
         "md5": "9a0f9ee762e45ba6c11be371b3d0c475"
       },
       "va059_zp_sdad_2019_demographics.csv.xz": {
         "location": "data",
-        "date": "2022-06-01T16:06:14Z",
+        "date": "2022-06-08T10:58:05Z",
         "size": 12296,
         "sha": "84c254234145d1176e157825476ef4ad5af8a2cb",
         "md5": "e0faa4d2219b001bf2c111fddb5c0af0"
@@ -1259,21 +1259,21 @@
     "files": {
       "new_file_name.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:15Z",
+        "date": "2022-03-29T12:20:55Z",
         "size": 166868,
         "sha": "3f1d0f484f993016c54f5e5af589bf377a5b190d",
         "md5": "74316669ccc3dfbe42d05dd7eb393d91"
       },
       "va_013_cabg_sdad_2021_latino_east_african_gravity_models.csv.xz": {
         "location": "data",
-        "date": "2022-06-01T21:37:56Z",
+        "date": "2022-06-08T10:58:01Z",
         "size": 165744,
         "sha": "13a9196d52deec41ea52d9d1b04a4bb3e4603fdb",
         "md5": "015d7a6507b8371c52c024964e67356b"
       },
       "va_cttr_osrm_2021_supermarket_drive_times.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:15Z",
+        "date": "2022-03-29T12:20:55Z",
         "size": 50480,
         "sha": "ce551ed2d7448322217952372c8b01c8f9defbd4",
         "md5": "09f762f703fd71a6351252765ac559bc"
@@ -1300,7 +1300,7 @@
     "files": {
       "va_hdct_vdh_2015_2021_drug_overdose_ed_visits.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:02Z",
+        "date": "2022-03-29T12:20:18Z",
         "size": 11300,
         "sha": "8d0c5854f0823f7f92cec9da89e3be1597092cf5",
         "md5": "836e3952e4ac1192019eb43bc103c255"
@@ -1339,21 +1339,21 @@
     "files": {
       "va_hdct_vdoe_2019_2021_3rd_grade_mean_median_read_score.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:11Z",
+        "date": "2022-03-29T12:20:44Z",
         "size": 4632,
         "sha": "3f2637bb31f788825cc9c329e9475451eebfc0d3",
         "md5": "85c71e77820c0073e60e28ce68fd8076"
       },
       "va_hdctsd_vdoe_2019_2021_3rd_grade_mean_median_read_score.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:11Z",
+        "date": "2022-03-29T12:20:44Z",
         "size": 7328,
         "sha": "d4f2778ed488a27970c132b726c90f0f3c11a9c7",
         "md5": "7dfe6fd85bf3e26b68d93f2863a8f367"
       },
       "va_sd_vdoe_2019_2021_3rd_grade_mean_median_read_score.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:11Z",
+        "date": "2022-03-29T12:20:44Z",
         "size": 2212,
         "sha": "87dad740138d6ab324457bb04355490c22f58815",
         "md5": "349fb2d9c451d6d31cebb15f8ef083b7"
@@ -1380,7 +1380,7 @@
     "files": {
       "va_hdcttr_sdad_vdoe_2017_2021_vpi_provider_access.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:12Z",
+        "date": "2022-03-29T12:20:47Z",
         "size": 351396,
         "sha": "21d33caab3cdd24d938de58fa0e716a3dd9b5403",
         "md5": "30ee54568782c76922aeba1107fc916a"
@@ -1413,28 +1413,28 @@
     "files": {
       "dmv_bg_2021_dentists_acccess_scores.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:57Z",
+        "date": "2022-03-29T12:20:04Z",
         "size": 69568,
         "sha": "8a051f46862ce949a99353a50f3a722f2dc55a37",
         "md5": "28175672a129e6196e7a9280abedef99"
       },
       "dmv_cttrbg_webmd_2021_acccess_scores_dentists.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:57Z",
+        "date": "2022-03-29T12:20:04Z",
         "size": 171216,
         "sha": "ac936ed3793d120a1e128d29de26098cf7b7f22d",
         "md5": "441ba2449e694ded57e9f9735075f898"
       },
       "dmv_cttrbg_webmd_2021_access_scores_dentists.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:57Z",
+        "date": "2022-03-29T12:20:04Z",
         "size": 171216,
         "sha": "ac936ed3793d120a1e128d29de26098cf7b7f22d",
         "md5": "441ba2449e694ded57e9f9735075f898"
       },
       "va_hdcttrbg_webmd_2021_access_scores_dentists.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:57Z",
+        "date": "2022-03-29T12:20:04Z",
         "size": 428224,
         "sha": "806b2e04f3057052ce69b879a2397c4f081c8c5a",
         "md5": "cab8a5830904f36d21e9a65b2210461a"
@@ -1467,28 +1467,28 @@
     "files": {
       "dmv_cttrbg_webmd_2021_acccess_scores_obgyn.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:57Z",
+        "date": "2022-03-29T12:20:06Z",
         "size": 191292,
         "sha": "8385da0f336ed409c41056f4b9aa10b7871442d7",
         "md5": "db30acf4caa08a04b875207813e30334"
       },
       "dmv_cttrbg_webmd_2021_access_scores_obgyn.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:57Z",
+        "date": "2022-03-29T12:20:06Z",
         "size": 191292,
         "sha": "8385da0f336ed409c41056f4b9aa10b7871442d7",
         "md5": "db30acf4caa08a04b875207813e30334"
       },
       "va_hdcttr_2021_2021_obgyn_acccess_scores_near10.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:57Z",
+        "date": "2022-03-29T12:20:06Z",
         "size": 13128,
         "sha": "313ffdb676facda4f68f755dc6c003f86862cff1",
         "md5": "0efdc136ec1ff3ebd49ad7cf08a3ad85"
       },
       "va_hdcttrbg_webmd_2021_access_scores_obgyn.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:57Z",
+        "date": "2022-03-29T12:20:06Z",
         "size": 422132,
         "sha": "e9ee9c8d504a0ca6bb66ebf21782f8d93b365f16",
         "md5": "e7bd4cc3a70c96292d9bcaa60c78c316"
@@ -1521,21 +1521,21 @@
     "files": {
       "dmv_cttrbg_webmd_2021_acccess_scores_pediatrics.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:56Z",
+        "date": "2022-03-29T12:20:00Z",
         "size": 169644,
         "sha": "876972e95c994f98f07e4a32a1372ce3448c2b63",
         "md5": "f31743da24155a2203ca0cace492a455"
       },
       "dmv_cttrbg_webmd_2021_access_scores_pediatrics.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:56Z",
+        "date": "2022-03-29T12:20:00Z",
         "size": 169644,
         "sha": "876972e95c994f98f07e4a32a1372ce3448c2b63",
         "md5": "f31743da24155a2203ca0cace492a455"
       },
       "va_hdcttrbg_webmd_2021_access_scores_pediatric.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:56Z",
+        "date": "2022-03-29T12:20:00Z",
         "size": 425728,
         "sha": "f0d8685623f852e8ec7a3fe1503658b564830d3e",
         "md5": "39ce3b7644741a96bc1393dc23cbb291"
@@ -1568,14 +1568,14 @@
     "files": {
       "dmv_cttrbg_webmd_2021_access_scores_primcare.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:56Z",
+        "date": "2022-03-29T12:20:02Z",
         "size": 193860,
         "sha": "f4dff84ff05017e75f51b2004ef500570d859905",
         "md5": "7407f799ed52cc7b01bce4debd1d5883"
       },
       "va_hdcttrbg_webmd_2021_access_scores_primcare.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:10:56Z",
+        "date": "2022-03-29T12:20:02Z",
         "size": 440988,
         "sha": "a797602fcb5145d147a174c9cb92824621b32b6a",
         "md5": "d9fdbe5d4f0f3c58f88476aa0143d9c5"
@@ -1608,14 +1608,14 @@
     "files": {
       "dc_health_behavior_diet.ncr_trct_sdad_2015_2019_brfss_sae.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:03Z",
+        "date": "2022-03-29T12:20:20Z",
         "size": 94520,
         "sha": "62334bd073c56f5d199477fba2845991d91cfd33",
         "md5": "6c961ff4e6f5e8ea32d43f1e94b509b2"
       },
       "dc_health_behavior_diet.va_trcthd_sdad_2015_2019_brfss_sae.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:03Z",
+        "date": "2022-03-29T12:20:20Z",
         "size": 171304,
         "sha": "bf6e02673d627c61df5cc507ecb8a6eb413bb302",
         "md5": "12541f8a6e55d3940f320bf4b0dfabf8"
@@ -1648,14 +1648,14 @@
     "files": {
       "ncr_trbgct_sdad_2019_2021_dei.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:04Z",
+        "date": "2022-03-29T12:20:23Z",
         "size": 675504,
         "sha": "74b64167cee3dab9c0371136fe472d4dce972f20",
         "md5": "b6c2eb6a01178de4686164db5637d95f"
       },
       "va_trbgcthd_sdad_2019_2021_dei.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:04Z",
+        "date": "2022-03-29T12:20:23Z",
         "size": 1129004,
         "sha": "f4140a96ac2c10d6fe9d9f9b7e37eec71e14e9c6",
         "md5": "b7eafd7ce4ef2872eae0cd1ce80026d7"
@@ -1678,7 +1678,7 @@
       },
       "va_hdcttrbg_dss_2021_daycare_access_scores.csv.bz2": {
         "location": "data",
-        "date": "2022-05-02T04:06:15Z",
+        "date": "2022-05-18T10:25:07Z",
         "size": 210620,
         "sha": "3687a7f7147ae7b148a7208ee8edffc4e03dbda8",
         "md5": "115bf6bc8584535ac0ff81758bf611e4"
@@ -1715,14 +1715,14 @@
     "files": {
       "ncr_cttr_acs_2009_2019_hh_receiving_snap.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:16Z",
+        "date": "2022-03-29T12:20:58Z",
         "size": 174696,
         "sha": "b6bcf95b75937d5427d9e26e2966f7c4fea59186",
         "md5": "016bb57dcfefb75d767d25b59773620c"
       },
       "va_hdcttr_acs_2009_2019_hh_receiving_snap.csv.xz": {
         "location": "data",
-        "date": "2022-04-12T02:11:16Z",
+        "date": "2022-03-29T12:20:58Z",
         "size": 307260,
         "sha": "fca3836843f2ad8d5751fca19170294a81c606b3",
         "md5": "1d7f1ca51c124940d6d792d462c9782b"
@@ -1741,119 +1741,119 @@
     "files": {
       "nces.csv.xz": {
         "location": "data/distribution/",
-        "date": "2022-06-24T03:35:02Z",
+        "date": "2022-07-22T12:26:47Z",
         "size": 6916980,
         "sha": "a1dfdae419a1c4f4191ea27dbe6f0bd11249e3ad",
         "md5": "1fecfe33bbc7bde613504584431b4e40"
       },
       "nces_2013.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-24T03:35:02Z",
+        "date": "2022-07-22T12:26:47Z",
         "size": 3079236,
         "sha": "c21dfe6bda5b7c99d73be1ec8b5f057d4a782103",
         "md5": "7f07994a14fab4b8533c4d8910062834"
       },
       "nces_2014.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-24T03:35:02Z",
+        "date": "2022-07-22T12:26:47Z",
         "size": 3068768,
         "sha": "08e16bccd55f70e78f5addc7577f691de1b1fff9",
         "md5": "26a388f99a9eda1d1280ce4f6a451c1b"
       },
       "nces_2015.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-24T03:35:02Z",
+        "date": "2022-07-22T12:26:47Z",
         "size": 3061444,
         "sha": "adc72630ee6bef603a4771bca8288ac9998b466d",
         "md5": "bd7ea7e86cda7af96a2dde42d0e885cd"
       },
       "nces_2016.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-24T03:35:02Z",
+        "date": "2022-07-22T12:26:47Z",
         "size": 3066032,
         "sha": "afe653b90df6a625fa06624c96a6c5a2e7228a06",
         "md5": "ce21194e45abf063ed73fe9ee389695c"
       },
       "nces_2017.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-24T03:35:02Z",
+        "date": "2022-07-22T12:26:47Z",
         "size": 3055208,
         "sha": "a4e53c5279caa447e97ba30485d62bccdb6892f3",
         "md5": "31142029b0903c8ec3c9d33fb264a567"
       },
       "nces_2018.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-24T03:35:02Z",
+        "date": "2022-07-22T12:26:47Z",
         "size": 3045196,
         "sha": "6151f1316cff0bcce93a09e3f857bff3db76706d",
         "md5": "0319c97eab2cf75b08d32ddea6287ba6"
       },
       "nces_2019.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-24T03:35:02Z",
+        "date": "2022-07-22T12:26:47Z",
         "size": 2974520,
         "sha": "cd28965e49e467e607bf299f7b34a8ee44410732",
         "md5": "56f4855205bb25a33ccd886367b193e0"
       },
       "nces_2020.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-24T03:35:02Z",
+        "date": "2022-07-22T12:26:47Z",
         "size": 3246424,
         "sha": "e99c574bc33291d142a706d22e7348bd3a49482d",
         "md5": "212c2ed1f02ec1a14b04671dd944220b"
       },
       "traveltimes_2013.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-24T03:35:03Z",
+        "date": "2022-07-22T12:26:47Z",
         "size": 48775688,
         "sha": "38ef2c721b46c3d389254e1d12862bfc50170e78",
         "md5": "ea7b0905cd9cd493aad92dc16d4cd685"
       },
       "traveltimes_2014.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-24T03:35:03Z",
+        "date": "2022-07-22T12:26:47Z",
         "size": 48137336,
         "sha": "920ec7955315fa5368d50ccbde21d988518d7ac2",
         "md5": "e67d0362e39524cdf9585b3a0f0367f2"
       },
       "traveltimes_2015.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-24T03:35:03Z",
+        "date": "2022-07-22T12:26:48Z",
         "size": 46973960,
         "sha": "b032f0e6550fe858fd766703953ce6cb8757a3a9",
         "md5": "f75091aa24021abd088ebb2723c00977"
       },
       "traveltimes_2016.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-24T03:35:03Z",
+        "date": "2022-07-22T12:26:48Z",
         "size": 44552828,
         "sha": "b299625135b8ba9b29b5ff2078939184ece253cc",
         "md5": "4c7daa97524bac652608d8abf8bdae11"
       },
       "traveltimes_2017.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-24T03:35:03Z",
+        "date": "2022-07-22T12:26:48Z",
         "size": 43071656,
         "sha": "919d6aa9da364fe0b06854cc341aa44d458f620f",
         "md5": "29d5ec0ca5456a7594b584f95b1553e8"
       },
       "traveltimes_2018.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-24T03:35:03Z",
+        "date": "2022-07-22T12:26:48Z",
         "size": 41203400,
         "sha": "eaf74ab684a133a2cf2fc252e6b960e852f564f5",
         "md5": "b1739439c681dc8372b0b7ae56a5ddfe"
       },
       "traveltimes_2019.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-24T03:35:03Z",
+        "date": "2022-07-22T12:26:48Z",
         "size": 39156680,
         "sha": "dc6cfeeab2305c37870c3c39eab8444a9858054c",
         "md5": "9b23b00b46fa465157bd00b148cc76b8"
       },
       "traveltimes_2020.csv.xz": {
         "location": "data/working/",
-        "date": "2022-06-24T03:35:04Z",
+        "date": "2022-07-22T12:26:48Z",
         "size": 40957568,
         "sha": "18b78a95e52108bd246ef5e31761634a2aa56f7f",
         "md5": "cd5889cffd512b9681532a7ea50d541c"
