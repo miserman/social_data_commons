@@ -75,7 +75,10 @@
     "kotelchuck_apncu_index:inadequate_pc",
     "kotelchuck_apncu_index:intermediate_pc",
     "kotelchuck_apncu_index:adequate_pc",
-    "kotelchuck_apncu_index:adequateplus_pc"
+    "kotelchuck_apncu_index:adequateplus_pc",
+    "hifld:hospitals",
+    "hifld:hospital_beds_per_100k",
+    "hifld:hospitals_min_drivetime"
   ],
   "ids": [
     "51_hd_01",
