@@ -67,7 +67,15 @@
     "access_scores_pediatric:ped_cnt",
     "access_scores_pediatric:ped_3sfca",
     "access_scores_primcare:primcare_cnt",
-    "access_scores_primcare:primcare_3sfca"
+    "access_scores_primcare:primcare_3sfca",
+    "kotelchuck_apncu_index:inadequate",
+    "kotelchuck_apncu_index:intermediate",
+    "kotelchuck_apncu_index:adequate",
+    "kotelchuck_apncu_index:adequateplus",
+    "kotelchuck_apncu_index:inadequate_pc",
+    "kotelchuck_apncu_index:intermediate_pc",
+    "kotelchuck_apncu_index:adequate_pc",
+    "kotelchuck_apncu_index:adequateplus_pc"
   ],
   "ids": [
     "51_hd_01",
