@@ -18,7 +18,6 @@
     "nces:schools_2year_with_engineering_program_per_100k",
     "nces:schools_2year_with_physical_program_per_100k",
     "nces:schools_2year_with_science_program_per_100k",
-    "dei:norm_dei",
     "speed_measurements:avg_down_using_devices",
     "drug_overdose_ed_visits:avg_monthly_rate",
     "food_insecurity_and_cost:Child_Food_Insecurity_Rate",
@@ -76,9 +75,12 @@
     "kotelchuck_apncu_index:intermediate_pc",
     "kotelchuck_apncu_index:adequate_pc",
     "kotelchuck_apncu_index:adequateplus_pc",
-    "hifld:hospitals",
-    "hifld:hospital_beds_per_100k",
-    "hifld:hospitals_min_drivetime"
+    "hhs:hospitals_per_100k",
+    "hhs:intensive_care_per_100k",
+    "hhs:childrens_hospitals_per_100k",
+    "hhs:hospitals_min_drivetime",
+    "hhs:intensive_care_min_drivetime",
+    "hhs:childrens_hospitals_min_drivetime"
   ],
   "ids": [
     "51_hd_01",
