@@ -33,3 +33,5 @@ uva-bi-sdad/dc.fema.nri
 uva-bi-sdad/dc.epa.ejs
 uva-bi-sdad/temp_health
 uva-bi-sdad/sdc.education
+uva-bi-sdad/dc.meps.acs.health.literacy
+uva-bi-sdad/dc.acs.education
