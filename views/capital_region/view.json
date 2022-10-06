@@ -105,7 +105,10 @@
     "demographics:perc_two_or_more_races",
     "demographics:perc_under_20",
     "demographics:perc_20_64",
-    "demographics:perc_65_plus"
+    "demographics:perc_65_plus",
+    "access_scores_urgent:urgent_near_10_median",
+    "access_scores_urgent:urgent_cnt",
+    "access_scores_urgent:urgent_3sfca"
   ],
   "ids": [
     "11001",
