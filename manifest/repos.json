@@ -2025,5 +2025,75 @@
         "md5": "cb86d28a015576a5684af97e75f24ff5"
       }
     }
+  },
+  "uva-bi-sdad/sdc.financial_well_being": {
+    "files": {
+      "measure_info_ncr_cttrbg_2015_2019_median_household_income.json": {
+        "location": "Pay and Benefits/Household Income/data/distribution",
+        "size": 863,
+        "sha": "83ba2a248546f7931041fb33ff5b053cb6df7324",
+        "md5": "278864c238e88248d155722d29c25046"
+      },
+      "measure_info_va_cttrbg_2015_2019_median_household_income.json": {
+        "location": "Pay and Benefits/Household Income/data/distribution",
+        "size": 861,
+        "sha": "a10009b2c6f07497bad7d44838c4cceb115066c4",
+        "md5": "e4c85c1e5e9e14accebb7efb518e83fb"
+      },
+      "va_cttrbg_2015_2019_median_household_income.csv.xz": {
+        "location": "Pay and Benefits/Household Income/data/distribution",
+        "size": 277424,
+        "sha": "0898b450bc2035d5ad98cbced072ee143fe421fc",
+        "md5": "6b20d03a6c3f3f5d6512243fbfd38bd6"
+      },
+      "ncr_cttrbg_2015_2019_median_household_income.csv.xz": {
+        "location": "Pay and Benefits/Household Income/data/distribution",
+        "size": 167112,
+        "sha": "420cf6e226cfb885a3000e2f31a79b54bc9dee28",
+        "md5": "a058ab0f647c622a9256f5b653455dec"
+      },
+      "prepare_ncr.R": {
+        "location": "Pay and Benefits/Household Income/code/distribution",
+        "size": 816,
+        "sha": "0b0fc5d9a3d139bb9e05777a1b18ed7462b80dc4",
+        "md5": "3e5974f8d64dcb43ef01e15745753d90"
+      },
+      "prepare_va.R": {
+        "location": "Pay and Benefits/Household Income/code/distribution",
+        "size": 668,
+        "sha": "5b523e5812d27c725b96a6a145a13bf67f4c4c97",
+        "md5": "d9fea72eb3a71122efb6178b04377b62"
+      },
+      "ingest.R": {
+        "location": "Pay and Benefits/Household Income/code/distribution",
+        "size": 1185,
+        "sha": "19dc1c847481d9c52028ecb6544d73dd258243d3",
+        "md5": "d90d08e1d26b055b9bd86c0593aca6f7"
+      },
+      "temp": {
+        "location": "Employment/docs/distribution",
+        "size": 0,
+        "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "md5": "d41d8cd98f00b204e9800998ecf8427e"
+      },
+      "va_ct_bea_2015_2020_earnings_per_job.csv.xz": {
+        "location": "Pay and Benefits/Personal Income/data/distribution",
+        "size": 12548,
+        "sha": "c7b9cc9d8bbbc03251da488648eae4ca584826ad",
+        "md5": "715c5be2c01baf9e201e52c28a6a0b5b"
+      },
+      "measure_info.json": {
+        "location": "Employment/data/distribution",
+        "size": 1016,
+        "sha": "bc5dd562f03de4332171f660cbf7afe2316e3aff",
+        "md5": "e5909756571abf088256513dec133205"
+      },
+      "va_tr_acs_2015_2019_emp_rate.csv.xz": {
+        "location": "Employment/data/distribution",
+        "size": 178072,
+        "sha": "5bc46a8f7643af16e7fe251ab9a3fa9b4b60ce3c",
+        "md5": "35fcb3181e983499603d5c160ce32a74"
+      }
+    }
   }
 }

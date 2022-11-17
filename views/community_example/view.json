@@ -80,7 +80,8 @@
     "hhs:childrens_hospitals_per_100k",
     "hhs:hospitals_min_drivetime",
     "hhs:intensive_care_min_drivetime",
-    "hhs:childrens_hospitals_min_drivetime"
+    "hhs:childrens_hospitals_min_drivetime",
+    "median_household_income"
   ],
   "ids": [
     "51_hd_01",

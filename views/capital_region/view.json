@@ -108,7 +108,8 @@
     "demographics:perc_65_plus",
     "access_scores_urgent:urgent_near_10_median",
     "access_scores_urgent:urgent_cnt",
-    "access_scores_urgent:urgent_3sfca"
+    "access_scores_urgent:urgent_3sfca",
+    "median_household_income"
   ],
   "ids": [
     "11001",
