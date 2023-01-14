@@ -878,6 +878,18 @@
         "size": 97,
         "sha": "18c40162ed44219574ca98e1d3e3f707d3d26169",
         "md5": "9d8a2f56c516e0066be7cfb8727ab378"
+      },
+      "ncr_bgtrct_gmap_2022_acccess_scores_urgent_care_centers.csv": {
+        "location": "/data",
+        "size": 4492184,
+        "sha": "6a6798795163767af0970b52d75e92892778accd",
+        "md5": "4316abebb16511b11263e2ca642ad6f9"
+      },
+      "ncr_bgtrct_gmap_2022_acccess_scores_urgent_care_centers.csv.xz": {
+        "location": "/data",
+        "size": 189792,
+        "sha": "ef883faf2eeaf6b2c7eb1118bbc1323ef2cec943",
+        "md5": "78ce6dbdb94ec914e53b01a3c5f75319"
       }
     }
   },
@@ -1723,10 +1735,10 @@
         "md5": "14df4927d602c55dc96cd525052a42b8"
       },
       "nces.csv.xz": {
-        "location": "data/nces/distribution",
-        "size": 6916980,
-        "sha": "a1dfdae419a1c4f4191ea27dbe6f0bd11249e3ad",
-        "md5": "1fecfe33bbc7bde613504584431b4e40"
+        "location": "Postsecondary/data/distribution",
+        "size": 12918352,
+        "sha": "3c5a1e786962c05956860394c2d0b72de6c4baeb",
+        "md5": "24adbfd178705181dbedfb9ef717edd5"
       },
       "nces_2013.csv.xz": {
         "location": "data/nces/",
@@ -1848,7 +1860,7 @@
         "md5": "85c71e77820c0073e60e28ce68fd8076"
       },
       "va_hdctsd_vdoe_2019_2021_3rd_grade_mean_median_read_score.csv.xz": {
-        "location": "data/vdoe/distribution",
+        "location": "Reading/data/distribution",
         "size": 7328,
         "sha": "d4f2778ed488a27970c132b726c90f0f3c11a9c7",
         "md5": "7dfe6fd85bf3e26b68d93f2863a8f367"
@@ -1875,64 +1887,88 @@
         "md5": "b0bda72f628853724351773256b11e0a"
       },
       "points_2017.geojson": {
-        "location": "data/nces/distribution",
+        "location": "Postsecondary/data/distribution",
         "size": 171891,
         "sha": "e09b2514b61a5d1859d9af68d05b989ae11928a8",
         "md5": "e84883fc53c0edf080693fbdbf4532b5"
       },
       "points_2020.geojson": {
-        "location": "data/nces/distribution",
+        "location": "Postsecondary/data/distribution",
         "size": 153302,
         "sha": "373a36c2eef263d0484d1537c5b3b40899a55b0f",
         "md5": "201138ae785f338621f9baeb2deec77d"
       },
       "points_2016.geojson": {
-        "location": "data/nces/distribution",
+        "location": "Postsecondary/data/distribution",
         "size": 177368,
         "sha": "c2781e22278bc6621fe2fde06a341d0c549a5c77",
         "md5": "9b6ef801f965e76c974c823fbc2ccdf9"
       },
       "points_2015.geojson": {
-        "location": "data/nces/distribution",
+        "location": "Postsecondary/data/distribution",
         "size": 186962,
         "sha": "ac4f9cd90964719e262f8590aae5934d2108c24a",
         "md5": "1cddf5f7e7687e6e28d059c8b3c4daf0"
       },
       "points_2018.geojson": {
-        "location": "data/nces/distribution",
+        "location": "Postsecondary/data/distribution",
         "size": 165020,
         "sha": "30d149eac8294a162fe094df9b49aac38f65c18f",
         "md5": "70f9df171f892198ac49b789c136327d"
       },
       "points_2014.geojson": {
-        "location": "data/nces/distribution",
+        "location": "Postsecondary/data/distribution",
         "size": 191805,
         "sha": "191c82f03ae0a488b6f027e40341dc50506cd2b1",
         "md5": "34d6d5efdcbfc076ba608867f24b862e"
       },
       "measure_info.json": {
-        "location": "data/vdoe/distribution",
-        "size": 2154,
-        "sha": "e0e5b540cded52bb35aee377451c9e06f720ebb0",
-        "md5": "281aa5b6eda905cb8779c75f661e8457"
+        "location": "Reading/data/distribution",
+        "size": 2478,
+        "sha": "ae715180b9dacff4278d7438348e839311571a1f",
+        "md5": "5afe319424c8765593936ccde6f01973"
       },
       "points_2019.geojson": {
-        "location": "data/nces/distribution",
+        "location": "Postsecondary/data/distribution",
         "size": 157891,
         "sha": "a24852a79fbfcccbec71e30f3530abc2368d10ef",
         "md5": "f18bd102dd542d90ead03a3184128999"
       },
       "points_2013.geojson": {
-        "location": "data/nces/distribution",
+        "location": "Postsecondary/data/distribution",
         "size": 194332,
         "sha": "7dd960c67e373a51c774a2a7997530815dd6bcb9",
         "md5": "bb37ebb8e63c3c19ac4a054c80af4ba2"
       },
       "dataset_doi": {
-        "location": "data/vdoe/distribution",
+        "location": "Reading/data/distribution",
         "size": 24,
         "sha": "1f39f8ee45859ae8aad254a26fa16445e46feb4a",
         "md5": "88ce7612068ea376788ed2f9b75265a8"
+      },
+      "vdss.csv.xz": {
+        "location": "Daycare/data/distribution",
+        "size": 554644,
+        "sha": "0ce6fc51cf7ed633ba2cc9b5ef59c9c136f8fb61",
+        "md5": "3125c21cff8a40774d3e2bd82c2929b4"
+      },
+      "acs.csv.xz": {
+        "location": "Postsecondary/data/distribution",
+        "size": 1529388,
+        "sha": "658dcd155782aee44abbb5bb3041980efc06d289",
+        "md5": "dbb1aa52933f317082b4dbec58243a11"
+      },
+      "temp": {
+        "location": "Reading/code/distribution",
+        "size": 0,
+        "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+        "md5": "d41d8cd98f00b204e9800998ecf8427e"
+      },
+      "points_2021.geojson": {
+        "location": "Daycare/data/distribution",
+        "size": 2405711,
+        "sha": "160422c2c8b70318b657bc97ab496110c3fb9a21",
+        "md5": "a19f2c925ea195fe18b5a88f9fd60a13"
       }
     }
   },
@@ -1943,86 +1979,6 @@
         "size": 34716,
         "sha": "e9edcc49ca96c60bd83c863acbaa8885df2b350b",
         "md5": "c461e68b803b50b8d7f8a1b3830235f7"
-      }
-    }
-  },
-  "uva-bi-sdad/dc.meps.acs.health.literacy": {
-    "files": {
-      "hl_est_ct.csv": {
-        "location": "/data-raw",
-        "size": 3562,
-        "sha": "3c15e3e1c70a51625c777879911cbb8c889facff",
-        "md5": "3540d102a1a82ab30d1c3247fb798752"
-      },
-      "hl_est_hd.csv": {
-        "location": "/data-raw",
-        "size": 834,
-        "sha": "a33892f590b4f16a068d5725c7bc89090de98a7c",
-        "md5": "d1a106cc795ad58a13ba86b540f9948e"
-      },
-      "hl_est_tr.csv": {
-        "location": "/data-raw",
-        "size": 62248,
-        "sha": "ced1d1f08c895c0bddb48a68b189e1e1cf912aa6",
-        "md5": "25304722eac1c61e37d49346f24e8bdd"
-      },
-      "HL_X_pred_ct.csv": {
-        "location": "/data-raw",
-        "size": 59559,
-        "sha": "7b791442899ec1fe0c7b8b98bf543063786d03b8",
-        "md5": "96b5bedb191136200eb6f53eabc08957"
-      },
-      "HL_X_pred_hd.csv": {
-        "location": "/data-raw",
-        "size": 15813,
-        "sha": "888566ad316341943939d1ff72de73f496a5b7b3",
-        "md5": "77f82e2e229e1b6e9107d1a5cc3fe824"
-      },
-      "HL_X_pred_tr.csv": {
-        "location": "/data-raw",
-        "size": 823295,
-        "sha": "561783b6d89a6d16e1db7edd6ec661a20f1912a0",
-        "md5": "14df4927d602c55dc96cd525052a42b8"
-      },
-      "va_hccttr_sdad_2019_health_literacy_estimates.csv.xz": {
-        "location": "/data",
-        "size": 13800,
-        "sha": "9c1df77e4de79ba601acb07deaeca42a9acf8798",
-        "md5": "14a42ebf428eed059434b60fcc567e75"
-      },
-      "sysdata.rda": {
-        "location": "/R",
-        "size": 97,
-        "sha": "32af975bbf662fd54222d43085b348de53f29977",
-        "md5": "9d2c2392b034c99540cc62c9acefb2df"
-      }
-    }
-  },
-  "uva-bi-sdad/dc.acs.education": {
-    "files": {
-      "ncr_cttr_acs_2010_2019_post_hs_education.csv.xz": {
-        "location": "/data",
-        "size": 174188,
-        "sha": "0c1a838b9d3afcaf1abf248d3a5c74f574c2e324",
-        "md5": "63b3ba738957a70661cf34e74ec2600d"
-      },
-      "va_hdcttr_acs_2010_2019_post_hs_education.csv.xz": {
-        "location": "/data",
-        "size": 302764,
-        "sha": "b71fa5fac32e5c4b18270b81912299898dc5d45f",
-        "md5": "d1db104eee5d29ace9cd7a9b11bf7bc7"
-      },
-      "va_hdcttr_acs_2015_2019_post_hs_education.csv.xz": {
-        "location": "/data",
-        "size": 40804,
-        "sha": "80421fece6df5ff87ab08cafdb76a8281c956bf5",
-        "md5": "a60503290e9bfe9735c013b1710b408d"
-      },
-      "sysdata.rda": {
-        "location": "/R",
-        "size": 97,
-        "sha": "17d4e05afd0799869ee625cb7a204557ac305fae",
-        "md5": "cb86d28a015576a5684af97e75f24ff5"
       }
     }
   },
