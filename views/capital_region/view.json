@@ -107,10 +107,13 @@
     "demographics:perc_under_20",
     "demographics:perc_20_64",
     "demographics:perc_65_plus",
-    "access_scores_urgent:urgent_near_10_median",
-    "access_scores_urgent:urgent_cnt",
-    "access_scores_urgent:urgent_3sfca",
-    "median_household_income"
+    "median_household_income",
+    "hosp_near_10_median",
+    "hosp_cnt",
+    "hosp_3sfca",
+    "urgent_near_10_median",
+    "urgent_cnt",
+    "urgent_3sfca"
   ],
   "ids": [
     "11001",

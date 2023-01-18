@@ -808,6 +808,60 @@
         "size": 94928,
         "sha": "382abe7ad87ed402f6a83bb5017cad71b292505d",
         "md5": "0e4d9b0777a9da6c1f54bbc3ce6035cd"
+      },
+      "ncr_bgtrct_2015_access_scores_hospitals.csv.xz": {
+        "location": "/data",
+        "size": 401112,
+        "sha": "5342de169daa233e90eb5a707bd42ff127f62f45",
+        "md5": "5b9c04771b3e0343ba13ca5a88c1de53"
+      },
+      "ncr_bgtrct_2016_access_scores_hospitals.csv.xz": {
+        "location": "/data",
+        "size": 401248,
+        "sha": "c06883e30e4a77215c0ceada2c2a9b06d6c6d031",
+        "md5": "d06afc2584addcc8447e9aad141c3efa"
+      },
+      "ncr_bgtrct_2017_access_scores_hospitals.csv.xz": {
+        "location": "/data",
+        "size": 402560,
+        "sha": "da28ed497fa6ff6b89b46a4131997698a10447ca",
+        "md5": "6b90fcac6ea1e3651c6eb9f55a83526c"
+      },
+      "ncr_bgtrct_2018_access_scores_hospitals.csv.xz": {
+        "location": "/data",
+        "size": 401444,
+        "sha": "9d6fb416387e82f31fc7b27798aab687fa0cd0bd",
+        "md5": "52432039067dd199f3f8b37d8aba842a"
+      },
+      "ncr_bgtrct_2019_access_scores_hospitals.csv.xz": {
+        "location": "/data",
+        "size": 402600,
+        "sha": "b16812fa729b40f439303bab4c8ba57adb9ca87b",
+        "md5": "9631bebe735707b86aed5c0b865d2893"
+      },
+      "ncr_bgtrct_2020_access_scores_hospitals.csv.xz": {
+        "location": "/data",
+        "size": 440128,
+        "sha": "f20631d0791f7cee49ded04ac2a86ab070be3294",
+        "md5": "9aa744273bc5618c419938918d8cfc50"
+      },
+      "ncr_bgtrct_2021_access_scores_hospitals.csv.xz": {
+        "location": "/data",
+        "size": 435572,
+        "sha": "4d30beb1f682be37dbe5bff13def7733a302d0ea",
+        "md5": "f65a0c7e77828d5c9543ac9c0e1696c5"
+      },
+      "ncr_bgtrct_2022_access_scores_hospitals.csv.xz": {
+        "location": "/data",
+        "size": 435412,
+        "sha": "84a16612f971bae48c517c56be5316def48de471",
+        "md5": "2f4cbf158b3e5c0d93599373b8f4d8a4"
+      },
+      "ncr_bgtrct_2015_2022_access_scores_hospitals.csv.xz": {
+        "location": "/data",
+        "size": 3170688,
+        "sha": "2de7aac6b948e38b6fda8d7a781660bf1963473d",
+        "md5": "cfd4e61df833a5c703d4d3565934e771"
       }
     }
   },
@@ -890,6 +944,12 @@
         "size": 189792,
         "sha": "ef883faf2eeaf6b2c7eb1118bbc1323ef2cec943",
         "md5": "78ce6dbdb94ec914e53b01a3c5f75319"
+      },
+      "ncr_bgtrct_gmap_2022_access_scores_urgent.csv.xz": {
+        "location": "/data",
+        "size": 192516,
+        "sha": "6c7c7795e1cdaf0f77a86d5503801b762b828165",
+        "md5": "42aede00d8cb527d5b96b14bab0fde56"
       }
     }
   },
@@ -1948,9 +2008,9 @@
       },
       "vdss.csv.xz": {
         "location": "Daycare/data/distribution",
-        "size": 554644,
-        "sha": "0ce6fc51cf7ed633ba2cc9b5ef59c9c136f8fb61",
-        "md5": "3125c21cff8a40774d3e2bd82c2929b4"
+        "size": 554072,
+        "sha": "497d467500a74e6c3d673522f900f6efade0cb1f",
+        "md5": "88edebb6ec901babd28f48273094f4e9"
       },
       "acs.csv.xz": {
         "location": "Postsecondary/data/distribution",
@@ -1959,16 +2019,16 @@
         "md5": "dbb1aa52933f317082b4dbec58243a11"
       },
       "temp": {
-        "location": "Reading/code/distribution",
+        "location": "Reading/docs/distribution",
         "size": 0,
         "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
         "md5": "d41d8cd98f00b204e9800998ecf8427e"
       },
       "points_2021.geojson": {
         "location": "Daycare/data/distribution",
-        "size": 2405711,
-        "sha": "160422c2c8b70318b657bc97ab496110c3fb9a21",
-        "md5": "a19f2c925ea195fe18b5a88f9fd60a13"
+        "size": 2251774,
+        "sha": "5b14920eaff6a564f244517450e7eee4da19ef39",
+        "md5": "ccd19a01e82d931ea605936f47866388"
       }
     }
   },
