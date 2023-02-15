@@ -981,6 +981,16 @@
         "size": 10384,
         "sha": "d8b0e63d14a2df59393301ffa0bbc12907fa49cb",
         "md5": "740fbb1a6bf654318d98097e24748cb2"
+      },
+      "Language/data/distribution/ncr_trctbg_acs_20092020_language_demographics.csv.xz": {
+        "size": 290684,
+        "sha": "3c1e8f8aeb8e64cac5ad718ad492587a2517bc02",
+        "md5": "36fe6f22ed473326a4924e69bd5ba483"
+      },
+      "Language/data/distribution/va_trctbg_acs_20092020_language_demographics.csv.xz": {
+        "size": 937920,
+        "sha": "1dc0c74bc2369bd1250eebd5fc85c7bfcee78c26",
+        "md5": "3bb5006c73327a3f6e4043a40810a394"
       }
     }
   },

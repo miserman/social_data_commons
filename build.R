@@ -1,11 +1,11 @@
 library(community)
 
 datacommons_refresh("../social_data_commons")
-datacommons_map_files("../social_data_commons", overwrite = TRUE)
+datacommons_map_files("../social_data_commons")
 
 datacommons_view(
   "../social_data_commons", "capital_region",
-  formatters = list(region_name = function(x) sub(",.*$", "", x)),
+  formatters = list(region_name = function(x) sub(",.*$", "", x))
 )
 
 datacommons_view(
