@@ -1,15 +1,15 @@
 library(community)
 
-datacommons_refresh("../social_data_commons")
+datacommons_refresh("../social_data_commons", reset_on_fail = TRUE)
 datacommons_map_files("../social_data_commons", overwrite = TRUE)
 
 datacommons_view(
   "../social_data_commons", "capital_region",
-  formatters = list(region_name = function(x) sub(",.*$", "", x)),
+  formatters = list(region_name = function(x) sub(",.*$", "", x)), overwrite = TRUE
 )
 
 datacommons_view(
-  "../social_data_commons", "community_example", entity_info = NULL
+  "../social_data_commons", "community_example", entity_info = NULL, overwrite = TRUE
 )
 
 init_datacommons("../social_data_commons", serve = TRUE)
