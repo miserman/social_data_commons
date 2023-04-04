@@ -105,7 +105,8 @@
     "air_quality_indicator",
     "access_care_indicator",
     "hh_received_snap_cnt",
-    "hh_received_snap_pct"
+    "hh_received_snap_pct",
+    "gini_index"
   ],
   "ids": [
     "51_hd_01",

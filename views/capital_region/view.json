@@ -81,7 +81,8 @@
     "percent_food_insecure",
     "number_food_insecure",
     "hh_received_snap_cnt",
-    "hh_received_snap_pct"
+    "hh_received_snap_pct",
+    "gini_index"
   ],
   "ids": [
     "11001",
