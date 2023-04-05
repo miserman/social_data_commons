@@ -106,7 +106,8 @@
     "access_care_indicator",
     "hh_received_snap_cnt",
     "hh_received_snap_pct",
-    "gini_index"
+    "gini_index",
+    "job_participate_rate"
   ],
   "ids": [
     "51_hd_01",

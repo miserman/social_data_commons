@@ -82,7 +82,8 @@
     "number_food_insecure",
     "hh_received_snap_cnt",
     "hh_received_snap_pct",
-    "gini_index"
+    "gini_index",
+    "job_participate_rate"
   ],
   "ids": [
     "11001",
