@@ -345,9 +345,9 @@
         "md5": "5b3c038be513d80d2d866f0c3acf6350"
       },
       "legacy/code/distribution/requirements.txt": {
-        "size": 2595,
-        "sha": "35029fb3f575dd262aac33f1ef479baa87006448",
-        "md5": "4d8a9ae23cb7ff33865d0ad51db96921"
+        "size": 2677,
+        "sha": "6f02334facdf5c5023a457b8ebfcbc33b3b09f9f",
+        "md5": "820ec773f6f766262dcf1bb9a7c8aedc"
       }
     }
   },
@@ -1305,6 +1305,16 @@
         "size": 7328,
         "sha": "d4f2778ed488a27970c132b726c90f0f3c11a9c7",
         "md5": "7dfe6fd85bf3e26b68d93f2863a8f367"
+      },
+      "Years of Schooling/data/distribution/ncr_tr_acs5_2017_2021_years_of_schooling.csv": {
+        "size": 723260,
+        "sha": "34de62bf5ec6047e6a4dddb76a631022c0b02c55",
+        "md5": "3c3ff9bfae1b07d88e3ab8b2ef744a12"
+      },
+      "Years of Schooling/data/distribution/va_tr_acs5_2017_2021_years_of_schooling.csv": {
+        "size": 1373717,
+        "sha": "6bdd3dd46bf539f225253a947d95ca5a6e87565d",
+        "md5": "2ad97cf396a926d1d265690b6c3485ad"
       }
     }
   },
@@ -3121,6 +3131,11 @@
         "size": 657203,
         "sha": "f91f274e0eeff4b47b8c9b4c8641cf625e8587b7",
         "md5": "484cdce3e87f51a13ea8a105fd7cca1e"
+      },
+      "Population Health/Health Opportunity Index/data/distribution/va_cttr_vdh_2017_2022_health_opportunity_profile.csv": {
+        "size": 529704,
+        "sha": "c5dffc6e2f9ae5d78f8c616a1866da16bde135c9",
+        "md5": "a254a8f623a2e06f514eb09216031a3c"
       }
     }
   },
