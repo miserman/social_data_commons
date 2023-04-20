@@ -642,6 +642,11 @@
         "size": 20196,
         "sha": "64f269ffd36bae2a16819ae1e0b6ae6488f869f6",
         "md5": "675f3cd519019a0efd8dc1c60225e771"
+      },
+      "Industry specific/Agriculture/data/distribution/va_ct_2017_industry_agriculture.csv.xz": {
+        "size": 5312,
+        "sha": "190e58a90ef6589f7f2722320723240ce0b3c713",
+        "md5": "bb2daf30d95ee6da0fb55572950e484a"
       }
     }
   },
@@ -1168,9 +1173,14 @@
         "md5": "0e7c5834b503bd1cf1e04564c09e0a73"
       },
       "Cooperative extension/data/distribution/va_cttr_2010_2021_perc_children_raised_by_GPs.csv.xz": {
-        "size": 365628,
-        "sha": "fc6d86bf4801c58189ec6261aaa94e3d15990e46",
-        "md5": "0608c9420c08f9a7f7d74ccbb9ecd751"
+        "size": 293588,
+        "sha": "f16c43ad0c946ec69a7bfb3f036bcbe0168b8eb7",
+        "md5": "50c60e9e994acd2a0d052bf6d3737dc9"
+      },
+      "Cooperative extension/data/distribution/va_cttr_2010_2021_perc_no_car_households.csv.xz": {
+        "size": 122180,
+        "sha": "a8db756c1fc18eb5a63a1d9e0fee483be0db5b66",
+        "md5": "9fc6aa51bbad6b91097ed97f864b6713"
       }
     }
   },
@@ -3136,6 +3146,61 @@
         "size": 529704,
         "sha": "c5dffc6e2f9ae5d78f8c616a1866da16bde135c9",
         "md5": "a254a8f623a2e06f514eb09216031a3c"
+      },
+      "Health Care Services/Dentists/Service Catchment Scores/data/distribution/ncr_cttrbg_webmd_2021_acccess_scores_dentists.csv": {
+        "size": 3923165,
+        "sha": "000e14324abbc261a59c73ea823239ecf4532bba",
+        "md5": "7a887560442e0da4418135b73a87e967"
+      },
+      "Health Care Services/Drug and Rehab/Service Catchment Scores/data/distribution/ncr_cttrbg_samhsa_2021_access_scores_substance.csv": {
+        "size": 3969303,
+        "sha": "c8ba50376450d8a2d00a2b46fac55504f091ab2d",
+        "md5": "b98d1083185ec774d944200e35b085d3"
+      },
+      "Health Care Services/EMS/Service Catchment Scores/data/distribution/ncr_cttrbg_hifld_2021_access_scores_ems.csv": {
+        "size": 3857592,
+        "sha": "10041428212f5e488dbdc74578d16bacca2b14e6",
+        "md5": "456766946b10785ac5f7c2891a92fdcc"
+      },
+      "Health Care Services/Health Professionals/VA Graduates/code/distribution/ingest.txt": {
+        "size": 294,
+        "sha": "e7c81b66a7edfa708b138cb694ffb08c51d54a0a",
+        "md5": "ce2632b58db51cfd02d6c3a13330f8b1"
+      },
+      "Health Care Services/Mental Health/Service Access Scores/data/distribution/ncr_cttrbg_samhsa_2021_access_scores_mental.csv": {
+        "size": 3952324,
+        "sha": "72dcb1a5132a0fc91d76b225d2374286bc0cebd8",
+        "md5": "5bb32b1365b1a9e312833b6b605bea5c"
+      },
+      "Health Care Services/Physicians/OB-GYN/Service Access Scores/data/distribution/ncr_cttrbg_webmd_2021_access_scores_obgyn.csv": {
+        "size": 3980229,
+        "sha": "0112e8bb96d4477ba9da2f4a7231e75dcc6b7094",
+        "md5": "693e71bc9ed99d60f45124eaf5a96199"
+      },
+      "Health Care Services/Physicians/Pediatric/Service Access Scores/data/distribution/ncr_cttrbg_webmd_2021_access_scores_pediatrics.csv": {
+        "size": 3930307,
+        "sha": "47a1bb7111d57cf5acc192195b07a73655d98b0a",
+        "md5": "9256b220c3f46c7f0f7e267d8daa65d0"
+      },
+      "Health Care Services/Physicians/Primary Care/Service Access Scores/data/distribution/ncr_cttrbg_webmd_2021_acccess_scores_primcare.csv": {
+        "size": 4065206,
+        "sha": "c726d4baa36ae0b3236fdef156eef969a11053cd",
+        "md5": "d7316eb05065778d469811f560e2c2e1"
+      },
+      "Population Health/Health Opportunity Index/data/distribution/va_cttr_vdh_2017_2022_economic_opportunity_profile.csv": {
+        "size": 458204,
+        "sha": "cd5f7bda98cc32a891821aa7aa2646d3478ed122",
+        "md5": "fa09bc861c58e9eb1a386057b553355e"
+      },
+      "Population Health/Reproductive Health/Prenatal Care Adequacy/code/distribution/ingest.txt": {
+        "size": 117,
+        "sha": "93f1ca05755c4bd7c6997f2abe304abed4a0ecba",
+        "md5": "f032b0ca1426028288adbf8ed3b2ae31"
+      },
+      "Population Health/Substance Abuse/Drug Overdose ED Visits/data/distribution/va_hdct_vdh_2015_2021_drug_overdose_ed_visits.csv.xz": {
+        "size": 11300,
+        "sha": "8d0c5854f0823f7f92cec9da89e3be1597092cf5",
+        "md5": "836e3952e4ac1192019eb43bc103c255"
       }
     }
   },
@@ -3300,6 +3365,26 @@
         "size": 3945956,
         "sha": "ad581442fd16db3cc9d204cc76b9b15b77f2c8e9",
         "md5": "fa1d0ad5562b4c615e82eef8e7c5594b"
+      },
+      "Cost-burdened HHs/data/distribution/ncr_ct_acs_2014_2019_cost_burdened_hhs.csv": {
+        "size": 47032,
+        "sha": "641be8767b37bafd04fd47ee9a24f791ff7c6009",
+        "md5": "066c9420c9d1dabce12aa6fb3c14b217"
+      },
+      "Cost-burdened HHs/data/distribution/ncr_tr_acs_2014_2019_cost_burdened_hhs.csv": {
+        "size": 5584153,
+        "sha": "2d20cb5e52cb3f460bb94231ab7f9e146297e98e",
+        "md5": "a3877df605e238be50649be019f8bcda"
+      },
+      "Cost/Rent/data/distribution/ncr_cttr_hud_2022_housing_cost.csv.xz": {
+        "size": 35932,
+        "sha": "ce381ce3b8f656aa66bbcb251cd949bfb1882ddf",
+        "md5": "8a93bc5a2b60a729bcb8ac86947a713b"
+      },
+      "Cost/Rent/data/distribution/va_cttr_hud_2022_housing_cost.csv.xz": {
+        "size": 65708,
+        "sha": "a69627e415cdd231c85f9b9100e01f5cce8306bd",
+        "md5": "e24df27fa7075381890278eafb5d3e02"
       }
     }
   },
