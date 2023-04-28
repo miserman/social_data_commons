@@ -609,9 +609,9 @@
         "md5": "67f13924f40460afac42d882ba9f7d17"
       },
       "Employment/Industry/data/distribution/va059_ct_mi_20102020_Herfindalh_Hirschman_index_by_industry.csv.xz": {
-        "size": 1832,
-        "sha": "ac5656c9f73d286aaf7f2b332b2e302cd2056fb9",
-        "md5": "8befef8d059b788774d5f489d67562b4"
+        "size": 1836,
+        "sha": "6b533ef0dde7dac97b94b5e06249cde2d2c01dc1",
+        "md5": "8cb6a468a9f3209318146b433747ee0f"
       },
       "Employment/Minority_owned/data/distribution/va059_bg_mi_20102019_jobs_destruction_by_minority.csv.xz": {
         "size": 99752,
@@ -3460,15 +3460,20 @@
         "size": 121,
         "sha": "e08c4a3f0c6408b828eb4d5bd682c3148c63c0c9",
         "md5": "89f6938e015533aab3abd5e85ca0312d"
+      },
+      "Population Characteristics/data/distribution/va_cttr_2010_2021_perc_no_car_households.csv.xz": {
+        "size": 124536,
+        "sha": "df1de20739b7d53d49e1aa41afa41ec64b472977",
+        "md5": "ebc10b49216cb0845b4d4f9d3a87b2b7"
       }
     }
   },
   "uva-bi-sdad/sdc.environment": {
     "files": {
       "climate_change/data/distribution/ncr_tr_fema_2019_natural_hazards_risk_scores.csv": {
-        "size": 2222658,
-        "sha": "076100e2e54b0803f63adba601949691b05406f0",
-        "md5": "22c3e46f3e7b980acfa8f8c24dbecc3c"
+        "size": 1874198,
+        "sha": "cef7ed6f8dcdfca2ec9c89af031d05d9ef6e1a4a",
+        "md5": "608907486af24d47f8a9a1dca4a3e8a9"
       },
       "environmental_justice/data/distribution/ncr_bg_epa_2022_environmental_justice_screen.csv": {
         "size": 13713074,
@@ -3476,9 +3481,9 @@
         "md5": "acd6c3f5fbc464cc98dca75abc21124f"
       },
       "environmental_justice/data/distribution/ncr_tr_epa_2022_environmental_justice_screen.csv": {
-        "size": 5104206,
-        "sha": "03e1bd62fb40b589febf177f45298617f1184444",
-        "md5": "936d4c44d296363dd128f96c21233a7e"
+        "size": 4290826,
+        "sha": "9b9c6f88e2c25afdf7358ce97cc856440aa8538f",
+        "md5": "ee160f016b56f75cdeeb359e61bc061f"
       }
     }
   }

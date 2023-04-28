@@ -108,7 +108,17 @@
     "hh_received_snap_pct",
     "gini_index",
     "job_participate_rate",
-    "average_years_schooling"
+    "average_years_schooling",
+    "total_cropland_acres",
+    "total_irrigatedCropland_acre",
+    "total_cropland_operations",
+    "total_animal_expense",
+    "fruit_treeNut_total_sales",
+    "total_animalProducts_sales",
+    "total_commodity_sales",
+    "total_calves_sales",
+    "perc_children_raised_by_GPs",
+    "perc_no_vehicle"
   ],
   "ids": [
     "51_hd_01",
