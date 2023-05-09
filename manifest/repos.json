@@ -358,6 +358,26 @@
         "size": 683160,
         "sha": "773e77d39dafea54186e6fb6e1c6134ee6b0e493",
         "md5": "8094f38d9c877ae64a8696bc61fd8e26"
+      },
+      "Wired/Adoption/Computer Type/data/distribution/ncr_cttrbg_acs_2017_2021_hh_without_compdev.csv.xz": {
+        "size": 388840,
+        "sha": "4363a8db2f5311e0162c4c10e8538589a4201172",
+        "md5": "6ce587dd3074e6bdd20808d76d25c44d"
+      },
+      "Wired/Adoption/Computer Type/data/distribution/va_hdcttrbg_acs_2017_2021_hh_without_compdev.csv.xz": {
+        "size": 683160,
+        "sha": "773e77d39dafea54186e6fb6e1c6134ee6b0e493",
+        "md5": "8094f38d9c877ae64a8696bc61fd8e26"
+      },
+      "Wired/Adoption/Internet Type/data/distribution/ncr_cttrbg_acs_2017_2021_hh_internet_type.csv.xz": {
+        "size": 1073228,
+        "sha": "4be6f30a3b265d474ca5415bdb868f4205e2ee0f",
+        "md5": "676c0d3a8dd5cdedda28d1e05b1bd2ca"
+      },
+      "Wired/Adoption/Internet Type/data/distribution/va_hdcttrbg_acs_2017_2021_hh_internet_type.csv.xz": {
+        "size": 1773848,
+        "sha": "6f30c1e400e040d1102c3e444f17b84fc2e5e520",
+        "md5": "e35d63a0c64cb172f23a2af313b7fec0"
       }
     }
   },
@@ -544,34 +564,34 @@
         "md5": "5e5673a2a788f4b08c8e0ef3e64dab3f"
       },
       "Business_characteristics/Industry/data/distribution/va059_bg_mi_20102020_entry_by_industry.csv.xz": {
-        "size": 605256,
-        "sha": "9b94c9e0a01b5c1d338b6723e1bef76e3e526cb9",
-        "md5": "be22297f37609dc8a4b9b705e02c2d9b"
+        "size": 613836,
+        "sha": "1e8b488fcc904ecfd4d8d874d026483abbc2559b",
+        "md5": "a1a6ec26b91cc9df8644f91127a1d429"
       },
       "Business_characteristics/Industry/data/distribution/va059_bg_mi_20102020_exit_by_industry.csv.xz": {
-        "size": 481036,
-        "sha": "e59f4b4e83ebf05b6c7a9d5a5e66ffdb37251f1c",
-        "md5": "2c0ab2a8c4b2a199bc6df86a868c5dab"
+        "size": 392280,
+        "sha": "78ab451ac7b4fadc1bdcbcece6000f57abd9b9d7",
+        "md5": "78a45d6d6361ecc25a535e9813d94b27"
       },
       "Business_characteristics/Industry/data/distribution/va059_bg_mi_20102020_number_business_by_industry.csv.xz": {
-        "size": 315732,
-        "sha": "febc1b021518e5669bb135ad3bba31a0b8fddaea",
-        "md5": "2cfa506f10a182e4c998d690fcc138a8"
+        "size": 289916,
+        "sha": "a0042646c814abbe329b935d8866d792bda7bc8a",
+        "md5": "724d162c5a5d50b5fb7b70ef1500e8c9"
       },
       "Business_characteristics/Minority_owned/data/distribution/va059_bg_mi_20102020_entry_by_minority.csv.xz": {
-        "size": 100088,
-        "sha": "6e378027ca19774fa65f0d6020ceeaebcef0e472",
-        "md5": "3691db083d1a1a79f82f1c427be44578"
+        "size": 104956,
+        "sha": "918e9a4c6c57c9af39571cfc25a74650654b547d",
+        "md5": "f109beb7e9e4df794cd75220b14baee5"
       },
       "Business_characteristics/Minority_owned/data/distribution/va059_bg_mi_20102020_exit_by_minority.csv.xz": {
-        "size": 48104,
-        "sha": "047455e6e37d5cec09adc607cb47d05b63c379b0",
-        "md5": "4dd26da9237a730042a560662d3b3056"
+        "size": 48208,
+        "sha": "c928769163b86ab28844e8e5b887568b8a32a003",
+        "md5": "1a466b34371408007c919db94d048a0b"
       },
       "Business_characteristics/Minority_owned/data/distribution/va059_bg_mi_20102020_number_business_by_minority.csv.xz": {
-        "size": 39104,
-        "sha": "b83cd3e6ca8e83306d218ccf197ad2cc3f24a2f6",
-        "md5": "5bf09924ee9d4001ac610e62864e58b6"
+        "size": 37604,
+        "sha": "39840f8a0b367c846681fc459e7e10c15b3f0bba",
+        "md5": "311d0d2d021dd0ed14b578684361d56a"
       },
       "Business_characteristics/Minority_owned/data/distribution/va059_ct_mi_20102020_minority_industry_profile.csv.xz": {
         "size": 14372,
@@ -584,29 +604,29 @@
         "md5": "bb1964faa9424874b5c38a3bea01526a"
       },
       "Business_characteristics/Total/data/distribution/va059_bg_mi_20102020_entry.csv.xz": {
-        "size": 57432,
-        "sha": "adcea4231525683774ef647e7705a77bdb3d8a0a",
-        "md5": "26b6b3a46e7828b06222c276d0078551"
+        "size": 60296,
+        "sha": "9e22346a128331b9103ea56c25bc73e765904b9c",
+        "md5": "6f8bf9414c54a3c36417a2c96ae2e738"
       },
       "Business_characteristics/Total/data/distribution/va059_bg_mi_20102020_exit.csv.xz": {
-        "size": 30272,
-        "sha": "0865b15e5566f8dd06a853dae94ac70723423dbe",
-        "md5": "becfb0b944415acd044f9da867a42735"
+        "size": 30020,
+        "sha": "6c8306ff62f89d089ea4a2e5afff92672f8b3e1f",
+        "md5": "d1ac3650de749de9be58b071811dfed8"
       },
       "Business_characteristics/Total/data/distribution/va059_bg_mi_20102020_number_business.csv.xz": {
-        "size": 19924,
-        "sha": "876d6e6a2d8ae7331782767c460da04830cc9812",
-        "md5": "5c13e11346b681eb6a002b15be989e8e"
+        "size": 21056,
+        "sha": "1bd146b4da6a828e8e47ddf04fb11e6713f4b100",
+        "md5": "6619a2752e6016feaf1d3464edf6a501"
       },
       "Employment/Industry/data/distribution/va059_bg_mi_20102019_jobs_destruction_by_industry.csv.xz": {
-        "size": 253640,
-        "sha": "29c9284c2f9a42fead9b52b98e09a97db62166ab",
-        "md5": "0700cea2cb4613677100052900e0a6e2"
+        "size": 275872,
+        "sha": "7f2f442c9361128ff999296247dcc749e5102574",
+        "md5": "dd6ab68d197a5384fb7958e51e45e103"
       },
       "Employment/Industry/data/distribution/va059_bg_mi_20102020_jobs_creation_by_industry.csv.xz": {
-        "size": 809612,
-        "sha": "9a4a538b5a92003b256187a0b8c798a3f8f6d4ec",
-        "md5": "2de7b0178102f9ec6ffa54196cf44eac"
+        "size": 863716,
+        "sha": "dc4e762d0b94d03d96630a7e54f6ece1f12be619",
+        "md5": "1ffe8d461c216c835fc4a0c3840191d4"
       },
       "Employment/Industry/data/distribution/va059_bg_mi_20102020_location_quotient_by_industry.csv.xz": {
         "size": 2273704,
@@ -614,9 +634,9 @@
         "md5": "ed5182cc17b3ab340017be25c830bd74"
       },
       "Employment/Industry/data/distribution/va059_bg_mi_20102020_total_employment_by_industry.csv.xz": {
-        "size": 472036,
-        "sha": "bf416e77101aefe17f6646551c674e28dad261b6",
-        "md5": "67f13924f40460afac42d882ba9f7d17"
+        "size": 452856,
+        "sha": "89b07dd9dca99e54c901722e4dada5afff8d6333",
+        "md5": "65fb332e558119ba13ddf4b9daa6ad2c"
       },
       "Employment/Industry/data/distribution/va059_ct_mi_20102020_Herfindalh_Hirschman_index_by_industry.csv.xz": {
         "size": 1836,
@@ -624,39 +644,139 @@
         "md5": "8cb6a468a9f3209318146b433747ee0f"
       },
       "Employment/Minority_owned/data/distribution/va059_bg_mi_20102019_jobs_destruction_by_minority.csv.xz": {
-        "size": 99752,
-        "sha": "c887cd93dfad37171b4a22a5b41a2c670b8f9c05",
-        "md5": "1b28c84db45bdeda3cbad4c3ee87f6ec"
+        "size": 106168,
+        "sha": "8222f2044e9a4667687d3162b2cdf75d1b6f7650",
+        "md5": "e5b822aaab13e3df9436a7c11b6f1592"
       },
       "Employment/Minority_owned/data/distribution/va059_bg_mi_20102020_jobs_creation_by_minority.csv.xz": {
-        "size": 222088,
-        "sha": "f686f54996be070a7fe7d0e77f1d8ac11432bbb5",
-        "md5": "46190e6ecf824bad9aa4bbab034ad819"
+        "size": 235912,
+        "sha": "aba6d015f8e9365bdf04d4639d2e7810e518d790",
+        "md5": "6e8e5ff541edab2dc1f1d102f67c4d97"
       },
       "Employment/Minority_owned/data/distribution/va059_bg_mi_20102020_total_employment_by_minority.csv.xz": {
-        "size": 79636,
-        "sha": "8dbcefbd56e202a3794be7115803faf1d64675de",
-        "md5": "b66bcde05f60b99f75d622ff7ce688fb"
+        "size": 103524,
+        "sha": "b0ccb12956d8fb37b6d9297cff39b00f5243135f",
+        "md5": "414092ece2ff9fcedd29778e6066ed57"
       },
       "Employment/Total/data/distribution/va059_bg_mi_20102019_jobs_destruction.csv.xz": {
-        "size": 87000,
-        "sha": "34c486a83485319da4b25dc1cdf7969aa31ab294",
-        "md5": "f0c9bb7d625b0c01854425af27d02f20"
+        "size": 81380,
+        "sha": "c35b6829138ae1676b135fa95ad4aad6be8367aa",
+        "md5": "65465f3f431a182476246cbed82fe353"
       },
       "Employment/Total/data/distribution/va059_bg_mi_20102020_jobs_creation.csv.xz": {
-        "size": 149196,
-        "sha": "64a90763e8edb628b88402cfa62a7669e9900e33",
-        "md5": "1f769ed4371fb6814d183110bfb67248"
+        "size": 159660,
+        "sha": "ed0935c2f0f3acbb5b8aad345bbd7b4d043ed3de",
+        "md5": "b3241c8b3ddc512520b79091161910ce"
       },
       "Employment/Total/data/distribution/va059_bg_mi_20102020_total_employment.csv.xz": {
-        "size": 20196,
-        "sha": "64f269ffd36bae2a16819ae1e0b6ae6488f869f6",
-        "md5": "675f3cd519019a0efd8dc1c60225e771"
+        "size": 23500,
+        "sha": "10b0aaa31165f917e298563dcd12ecd6f48e79be",
+        "md5": "7cd1b8a20feadc8e15bfe7a89f1ec96e"
       },
       "Industry specific/Agriculture/data/distribution/va_ct_2017_industry_agriculture.csv.xz": {
         "size": 5312,
         "sha": "190e58a90ef6589f7f2722320723240ce0b3c713",
         "md5": "bb2daf30d95ee6da0fb55572950e484a"
+      },
+      "Business_characteristics/Industry/data/distribution/ncr_bg_mi_20102020_entry_by_industry.csv.xz": {
+        "size": 3948996,
+        "sha": "c0cfb905805f733f5fa684cad179191a1f2c1df2",
+        "md5": "5cad6ba811307dd4e124a4809fad53fa"
+      },
+      "Business_characteristics/Industry/data/distribution/ncr_bg_mi_20102020_exit_by_industry.csv.xz": {
+        "size": 3829380,
+        "sha": "c1f292b07f8fce69b1515d849fd2179ca87d9e5f",
+        "md5": "16f3c237d86367436e17d98785f85c3c"
+      },
+      "Business_characteristics/Industry/data/distribution/ncr_bg_mi_20102020_number_business_by_industry.csv.xz": {
+        "size": 1942792,
+        "sha": "ed7c5dc89c72c40fae09f6cb3a84be67e6c6187c",
+        "md5": "9cb5afe8c87ab5fdfcc8717ce2aa3d5e"
+      },
+      "Business_characteristics/Minority_owned/data/distribution/ncr_bg_mi_20102020_entry_by_minority.csv.xz": {
+        "size": 547296,
+        "sha": "b42cd16c33173677d7a26e524749a743577e7815",
+        "md5": "b9d49df07fe364742843764ba8e44f4d"
+      },
+      "Business_characteristics/Minority_owned/data/distribution/ncr_bg_mi_20102020_exit_by_minority.csv.xz": {
+        "size": 450032,
+        "sha": "f63fc249af9fcbe9526d6debdaef16f5ff5ef75e",
+        "md5": "3e7b6bf4a0a73d9ae44afab862254bdf"
+      },
+      "Business_characteristics/Minority_owned/data/distribution/ncr_bg_mi_20102020_number_business_by_minority.csv.xz": {
+        "size": 198020,
+        "sha": "9ad4e9216b85e12ae6fa2a6a5933da87f1e355c3",
+        "md5": "441b8a01730807a070ecea4bdffa95ed"
+      },
+      "Business_characteristics/Total/data/distribution/ncr_bg_mi_20102020_entry.csv.xz": {
+        "size": 322620,
+        "sha": "776f573414f2de8c26ef471308f771e611e370d8",
+        "md5": "6ac7b5a0f686930d2a624e5d89bd3057"
+      },
+      "Business_characteristics/Total/data/distribution/ncr_bg_mi_20102020_exit.csv.xz": {
+        "size": 314744,
+        "sha": "4135c864a5aa62f74796982afecd19ba6239ae18",
+        "md5": "91d06df15ffe227d248e910303eb7a69"
+      },
+      "Business_characteristics/Total/data/distribution/ncr_bg_mi_20102020_number_business.csv.xz": {
+        "size": 110056,
+        "sha": "4e2ee77610fa2c3fb67e7af5f7a672ef36c31c62",
+        "md5": "9fd17c16c0258b651e6a488150ad1d1b"
+      },
+      "Employment/Industry/data/distribution/ncr_bg_mi_20102019_jobs_destruction_by_industry.csv.xz": {
+        "size": 5755520,
+        "sha": "f9690c8a19d26841444b7e8fa6302fb2aea4ba4c",
+        "md5": "8aa9f8161b737e1f8607035adb27ed04"
+      },
+      "Employment/Industry/data/distribution/ncr_bg_mi_20102020_jobs_creation_by_industry.csv.xz": {
+        "size": 6105408,
+        "sha": "835677065f54f1185e82edb2220111f5745a32c8",
+        "md5": "30139b26c6dc8e1ede4b0e80493c4378"
+      },
+      "Employment/Industry/data/distribution/ncr_bg_mi_20102020_location_quotient_by_industry.csv.xz": {
+        "size": 23041664,
+        "sha": "740dceaded83892e39a6c898d22fc173ff005bd5",
+        "md5": "2586e3aac78783d65d6c94efe340d044"
+      },
+      "Employment/Industry/data/distribution/ncr_bg_mi_20102020_total_employment_by_industry.csv.xz": {
+        "size": 2968492,
+        "sha": "60e557551dcbbb8c7065b2225e1050eb05e03dc4",
+        "md5": "1289be7d76c5f7c030aff6ffa23c6764"
+      },
+      "Employment/Industry/data/distribution/va059_bg_mi_20102020_jobs_destruction_by_industry.csv.xz": {
+        "size": 110056,
+        "sha": "4e2ee77610fa2c3fb67e7af5f7a672ef36c31c62",
+        "md5": "9fd17c16c0258b651e6a488150ad1d1b"
+      },
+      "Employment/Minority_owned/data/distribution/ncr_bg_mi_20102019_jobs_destruction_by_minority.csv.xz": {
+        "size": 956404,
+        "sha": "22571577a9a94f2c52ca1976193580083385fb68",
+        "md5": "9f058ae98c2aebe819bd191357248c6b"
+      },
+      "Employment/Minority_owned/data/distribution/ncr_bg_mi_20102020_jobs_creation_by_minority.csv.xz": {
+        "size": 1254792,
+        "sha": "a4fb306f8bd295074dc36c96be60b744b1e0536e",
+        "md5": "cd5791c1995041e90cc8aa09d4d3d5bc"
+      },
+      "Employment/Minority_owned/data/distribution/ncr_bg_mi_20102020_total_employment_by_minority.csv.xz": {
+        "size": 559760,
+        "sha": "aeaaded303173cbdd03b65d7a4775cf02a6bff57",
+        "md5": "eb0415ef32da20b574126ac8cdd92f0e"
+      },
+      "Employment/Total/data/distribution/ncr_bg_mi_20102019_jobs_destruction.csv.xz": {
+        "size": 805624,
+        "sha": "b46f9ffde011a5ed16831419dfcae54077488413",
+        "md5": "081d6ab6582fc0e662c923d88bbaf21c"
+      },
+      "Employment/Total/data/distribution/ncr_bg_mi_20102020_jobs_creation.csv.xz": {
+        "size": 891340,
+        "sha": "94c4490d42449644d95203091adb09405fc3d566",
+        "md5": "e35505ce25fc142db83da2ffd8d19406"
+      },
+      "Employment/Total/data/distribution/ncr_bg_mi_20102020_total_employment.csv.xz": {
+        "size": 121368,
+        "sha": "7f3655b79d2aa85b7da6d2973494654aa55a9ff1",
+        "md5": "fa6ea355aaefb39264712c4acdfcc843"
       }
     }
   },
