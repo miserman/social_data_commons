@@ -194,7 +194,9 @@
     "Wholesale Trade_exit_rate", 
     "Wholesale Trade_total_employment", 
     "Wholesale Trade_total_job_creation", 
-    "Wholesale Trade_total_job_destruction"
+    "Wholesale Trade_total_job_destruction",
+    "Minority_employment",
+    "Nonminority_employment"
   ],
   "ids": [
     "11001",
