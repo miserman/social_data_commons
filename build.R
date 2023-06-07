@@ -7,9 +7,12 @@ entities_file <- "../social_data_commons/cache/entities.rds"
 if (file.exists(entities_file)) {
   entities <- readRDS(entities_file)
 } else {
-  entities <- vroom::vroom(
-    "https://raw.githubusercontent.com/uva-bi-sdad/sdc.geographies/main/geographies_metadata.csv"
-  )
+  file <- tempfile(fileext = ".csv.xz")
+  download.file(paste0(
+    "https://raw.githubusercontent.com/uva-bi-sdad/sdc.geographies/main/",
+    "docs/distribution/geographies_metadata.csv.xz"
+  ), file)
+  entities <- vroom::vroom(file)
   entities <- entities[!duplicated(entities$geoid), c("geoid", "region_name", "region_type")]
   saveRDS(entities, entities_file, compress = "xz")
 }
@@ -17,13 +20,7 @@ if (file.exists(entities_file)) {
 # capital region
 datacommons_view(
   "../social_data_commons", "capital_region", metadata = entities,
-  formatters = list(region_name = function(x) sub(",.*$", "", x)), overwrite = TRUE
-)
-entity_info <- jsonlite::read_json("../capital_region/docs/data/entity_info.json")
-jsonlite::write_json(
-  entity_info[!names(entity_info) %in% c("tract", "block_group")],
-  "../capital_region/docs/data/entity_info.json",
-  auto_unbox = TRUE
+  entity_info = NULL, overwrite = TRUE
 )
 
 # VDH
