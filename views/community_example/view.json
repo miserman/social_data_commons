@@ -121,7 +121,17 @@
     "total_commodity_sales",
     "total_calves_sales",
     "perc_children_raised_by_GPs",
-    "perc_no_vehicle"
+    "perc_no_vehicle",
+    "alice_pct",
+    "operation_farmValue",
+    "poverty_pct",
+    "total_acres",
+    "total_operations",
+    "vi_household",
+    "vi_housing_transportation",
+    "vi_overall",
+    "vi_race_ethnicity",
+    "vi_socioeconomic"
   ],
   "ids": [
     "51_hd_01",
