@@ -29,5 +29,11 @@ datacommons_view(
   entity_info = NULL, overwrite = TRUE
 )
 
+# Fairfax women and girls
+datacommons_view(
+  "../social_data_commons", "fairfax_women_and_girls", metadata = entities,
+  entity_info = NULL, overwrite = TRUE
+)
+
 # monitor site
 init_datacommons("../social_data_commons", serve = TRUE)
