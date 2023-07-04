@@ -1,8 +1,5 @@
 library(community)
 
-datacommons_refresh("../social_data_commons", reset_on_fail = TRUE)
-datacommons_map_files("../social_data_commons", overwrite = TRUE)
-
 entities_file <- "../social_data_commons/cache/entities.rds"
 if (file.exists(entities_file)) {
   entities <- readRDS(entities_file)
@@ -16,6 +13,12 @@ if (file.exists(entities_file)) {
   entities <- entities[!duplicated(entities$geoid), c("geoid", "region_name", "region_type")]
   saveRDS(entities, entities_file, compress = "xz")
 }
+
+datacommons_refresh(
+  "../social_data_commons",
+  reset_on_fail = TRUE, dataset_map = structure(entities$region_type, names = entities$geoid)
+)
+datacommons_map_files("../social_data_commons", overwrite = TRUE)
 
 # capital region
 datacommons_view(
