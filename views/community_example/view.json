@@ -101,7 +101,7 @@
     "job_participation_indicator",
     "material_deprivation_indicator",
     "pop_churning_indicator",
-    "pop_density_indicator",
+    "population_density",
     "segregation_indicator",
     "walkability_indicator",
     "affordability_indicator",
