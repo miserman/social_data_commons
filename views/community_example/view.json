@@ -134,7 +134,10 @@
     "vi_housing_transportation",
     "vi_overall",
     "vi_race_ethnicity",
-    "vi_socioeconomic"
+    "vi_socioeconomic",
+    "disconnectedYouth",
+    "schoolFundAdequacy",
+    "voterTurnout"
   ],
   "ids": [
     "51_hd_01",
