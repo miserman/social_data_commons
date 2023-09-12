@@ -8,3 +8,4 @@ uva-bi-sdad/sdc.food
 uva-bi-sdad/sdc.health
 uva-bi-sdad/sdc.housing
 uva-bi-sdad/sdc.transportation
+uva-bi-sdad/sdc.public_safety
