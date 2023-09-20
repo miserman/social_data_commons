@@ -137,7 +137,8 @@
     "vi_socioeconomic",
     "disconnectedYouth",
     "schoolFundAdequacy",
-    "voterTurnout"
+    "voterTurnout",
+    "incarceration_rate_per_100000"
   ],
   "ids": [
     "51_hd_01",

@@ -1,4 +1,4 @@
 {
   "name": "Social Data Commons",
-  "repositories": ["uva-bi-sdad/sdc.broadband", "uva-bi-sdad/sdc.business_climate", "uva-bi-sdad/sdc.demographics", "uva-bi-sdad/sdc.education", "uva-bi-sdad/sdc.environment", "uva-bi-sdad/sdc.financial_well_being", "uva-bi-sdad/sdc.food", "uva-bi-sdad/sdc.health", "uva-bi-sdad/sdc.housing", "uva-bi-sdad/sdc.transportation"]
+  "repositories": ["uva-bi-sdad/sdc.broadband", "uva-bi-sdad/sdc.business_climate", "uva-bi-sdad/sdc.demographics", "uva-bi-sdad/sdc.education", "uva-bi-sdad/sdc.environment", "uva-bi-sdad/sdc.financial_well_being", "uva-bi-sdad/sdc.food", "uva-bi-sdad/sdc.health", "uva-bi-sdad/sdc.housing", "uva-bi-sdad/sdc.public_safety", "uva-bi-sdad/sdc.transportation"]
 }
