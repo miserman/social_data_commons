@@ -7,5 +7,4 @@
 node_modules
 package-lock.json
 repos
-cache
 docs/dist
