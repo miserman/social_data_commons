@@ -20,23 +20,23 @@ datacommons_refresh(
 )
 datacommons_map_files("../social_data_commons", overwrite = TRUE)
 
-# capital region
-datacommons_view(
-  "../social_data_commons", "capital_region",
-  metadata = entities, entity_info = NULL
-)
-
-# VDH
-datacommons_view(
-  "../social_data_commons", "community_example",
-  metadata = entities, entity_info = NULL
-)
-
-# Fairfax women and girls
-datacommons_view(
-  "../social_data_commons", "fairfax_women_and_girls",
-  metadata = entities, entity_info = NULL
-)
-
-# monitor site
-init_datacommons("../social_data_commons", serve = TRUE)
+# # capital region
+# datacommons_view(
+#   "../social_data_commons", "capital_region",
+#   metadata = entities, entity_info = NULL
+# )
+# 
+# # VDH
+# datacommons_view(
+#   "../social_data_commons", "community_example",
+#   metadata = entities, entity_info = NULL
+# )
+# 
+# # Fairfax women and girls
+# datacommons_view(
+#   "../social_data_commons", "fairfax_women_and_girls",
+#   metadata = entities, entity_info = NULL
+# )
+# 
+# # monitor site
+# init_datacommons("../social_data_commons", serve = TRUE)

@@ -1,0 +1,5 @@
+options(repos = list(CRAN="http://cran.rstudio.com/"))
+install.packages('plyr', repos = "http://cran.us.r-project.org")
+install.packages('remotes')
+remotes::install_github('uva-bi-sdad/community', force=TRUE)
+source("build.R")
