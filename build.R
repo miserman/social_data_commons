@@ -16,7 +16,7 @@ if (file.exists(entities_file)) {
 
 datacommons_refresh(
   "../social_data_commons",
-  reset_on_fail = TRUE, dataset_map = structure(entities$region_type, names = entities$geoid)
+  reset_on_fail = TRUE, dataset_map = structure(entities$region_type, names = entities$geoid, verbose=TRUE)
 )
 datacommons_map_files("../social_data_commons", overwrite = TRUE)
 
