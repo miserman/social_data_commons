@@ -37,6 +37,12 @@ datacommons_map_files("../social_data_commons", overwrite = TRUE)
 #   "../social_data_commons", "fairfax_women_and_girls",
 #   metadata = entities, entity_info = NULL
 # )
+# # VDH Parent site
+datacommons_view(
+  "../social_data_commons", "vdh_rural_parent",
+  metadata = entities, entity_info = NULL
+)
+
 # 
 # # monitor site
-# init_datacommons("../social_data_commons", serve = TRUE)
+init_datacommons("../social_data_commons", serve = TRUE)
