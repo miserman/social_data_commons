@@ -38,10 +38,10 @@ datacommons_map_files("../social_data_commons", overwrite = TRUE)
 #   metadata = entities, entity_info = NULL
 # )
 # # VDH Parent site
-datacommons_view(
-  "../social_data_commons", "vdh_rural_parent",
-  metadata = entities, entity_info = NULL
-)
+# datacommons_view(
+#   "../social_data_commons", "vdh_rural_parent",
+#   metadata = entities, entity_info = NULL
+# )
 
 # 
 # # monitor site
